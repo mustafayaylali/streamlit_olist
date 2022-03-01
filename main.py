@@ -1,16 +1,22 @@
-# This is a sample Python script.
+import page1
+import page2
+import page_olist
+import streamlit as st
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# RUN: streamlit run main.py
+
+# DOCS : https://docs.streamlit.io/library/api-reference/charts
+
+PAGES = {
+    "Olist Model": page_olist,
+    "Çalışma": page2,
+    "BMI Calculator": page1,
+}
+st.sidebar.title('Menu')
+
+selection = st.sidebar.radio("Go to", list(PAGES.keys()))
+page = PAGES[selection]
+page.app()
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# TODO Free Host-Domain ayarla
