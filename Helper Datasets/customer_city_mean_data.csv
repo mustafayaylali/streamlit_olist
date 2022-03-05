@@ -1,0 +1,3986 @@
+,customer_city,order_completion_day,label
+0,abadia dos dourados,12.0,iki
+1,abadiania,29.0,altı
+2,abaete,10.0,bir
+3,abaetetuba,25.9,altı
+4,abaiara,35.5,altı
+5,abaira,14.5,dört
+6,abare,17.5,beş
+7,abatia,18.666666666666668,beş
+8,abelardo luz,19.0,beş
+9,abrantes,16.0,dört
+10,abre campo,11.8,iki
+11,abreu e lima,19.22222222222222,beş
+12,acaiaca,11.0,iki
+13,acailandia,16.428571428571427,dört
+14,acajutiba,16.0,dört
+15,acarau,36.857142857142854,altı
+16,acari,13.0,üç
+17,acegua,23.5,altı
+18,acopiara,22.0,altı
+19,acreuna,15.428571428571429,dört
+20,acu,23.5,altı
+21,acucena,4.0,bir
+22,adamantina,11.6,iki
+23,adhemar de barros,98.0,altı
+24,adolfo,10.6,iki
+25,adrianopolis,9.0,bir
+26,adustina,12.0,iki
+27,afogados da ingazeira,11.375,iki
+28,afonso claudio,13.363636363636363,üç
+29,afranio,16.0,dört
+30,agisse,14.0,üç
+31,agrestina,14.0,üç
+32,agrolandia,13.0,üç
+33,agronomica,18.5,beş
+34,agua boa,17.647058823529413,beş
+35,agua branca,20.8,beş
+36,agua clara,18.5,beş
+37,agua comprida,7.0,bir
+38,agua doce do norte,12.25,üç
+39,agua fria de goias,18.0,beş
+40,agua limpa,20.0,beş
+41,agua nova,19.0,beş
+42,agua preta,11.0,iki
+43,agua santa,13.0,üç
+44,aguai,11.666666666666666,iki
+45,aguas belas,13.6,üç
+46,aguas claras,37.0,altı
+47,aguas da prata,7.444444444444445,bir
+48,aguas de lindoia,11.333333333333334,iki
+49,aguas de santa barbara,10.666666666666666,iki
+50,aguas de sao pedro,17.0,dört
+51,aguas formosas,9.75,bir
+52,aguas frias,11.0,iki
+53,aguas lindas de goias,13.590909090909092,üç
+54,aguas mornas,17.0,dört
+55,aguas vermelhas,17.0,dört
+56,agudo,11.0,iki
+57,agudos,10.428571428571429,iki
+58,aguia branca,17.0,dört
+59,aimores,9.9,bir
+60,aiuaba,10.0,bir
+61,aiuruoca,10.75,iki
+62,ajapi,28.0,altı
+63,ajuricaba,6.5,bir
+64,alagoa,12.0,iki
+65,alagoa grande,10.0,bir
+66,alagoa nova,32.0,altı
+67,alagoinha,21.5,altı
+68,alagoinhas,20.91891891891892,beş
+69,alambari,8.0,bir
+70,alcantara,20.0,beş
+71,alcinopolis,9.833333333333334,bir
+72,alcobaca,18.75,beş
+73,alegre,15.4375,dört
+74,alegrete,13.5,üç
+75,alegrete do piaui,26.0,altı
+76,alegria,11.0,iki
+77,alem paraiba,13.678571428571429,üç
+78,alexandra,18.0,beş
+79,alexandria,12.5,üç
+80,alexandrita,11.0,iki
+81,alexania,12.4,üç
+82,alfenas,12.461538461538462,üç
+83,alfredo chaves,14.571428571428571,dört
+84,alfredo marcondes,16.0,dört
+85,alfredo vasconcelos,8.666666666666666,bir
+86,alfredo wagner,10.5,iki
+87,alhandra,24.0,altı
+88,alianca,21.0,beş
+89,alianca do tocantins,16.0,dört
+90,almenara,13.23076923076923,üç
+91,almino afonso,15.0,dört
+92,almirante tamandare,13.057142857142857,üç
+93,almirante tamandare do sul,12.0,iki
+94,alpercata,7.5,bir
+95,alpestre,13.0,üç
+96,alpinopolis,12.428571428571429,üç
+97,alta floresta,16.818181818181817,dört
+98,alta floresta d'oeste,19.333333333333332,beş
+99,altamira,27.958333333333332,altı
+100,altamira do parana,10.0,bir
+101,altaneira,19.0,beş
+102,alterosa,14.333333333333334,üç
+103,altinho,7.0,bir
+104,altinopolis,10.25,iki
+105,alto alegre,16.666666666666668,dört
+106,alto alegre do iguacu,16.0,dört
+107,alto alegre do maranhao,10.0,bir
+108,alto alegre do pindare,12.0,iki
+109,alto araguaia,24.8,altı
+110,alto boa vista,16.0,dört
+111,alto caparao,18.5,beş
+112,alto do rodrigues,22.333333333333332,altı
+113,alto garcas,16.0,dört
+114,alto horizonte,15.5,dört
+115,alto jequitiba,8.666666666666666,bir
+116,alto paraiso,19.0,beş
+117,alto paraiso de goias,19.6,beş
+118,alto parana,12.0,iki
+119,alto parnaiba,22.6,altı
+120,alto piquiri,7.0,bir
+121,alto rio doce,14.75,dört
+122,alto rio novo,13.0,üç
+123,alto santo,15.666666666666666,dört
+124,alto taquari,18.0,beş
+125,altonia,10.0,bir
+126,altos,19.2,beş
+127,aluminio,14.7,dört
+128,alvarenga,11.0,iki
+129,alvares florence,12.5,üç
+130,alvares machado,8.5,bir
+131,alvaro de carvalho,9.0,bir
+132,alvinopolis,9.272727272727273,bir
+133,alvorada,15.377358490566039,dört
+134,alvorada do gurgueia,11.0,iki
+135,alvorada do norte,15.0,dört
+136,amambai,17.5,beş
+137,amanari,23.0,altı
+138,amapa do maranhao,17.0,dört
+139,amapora,11.0,iki
+140,amaraji,23.0,altı
+141,amarante,18.0,beş
+142,amargosa,21.0,beş
+143,amelia rodrigues,14.666666666666666,dört
+144,america dourada,45.0,altı
+145,americana,7.738916256157635,bir
+146,americano do brasil,14.666666666666666,dört
+147,americo brasiliense,13.625,üç
+148,americo de campos,11.0,iki
+149,ametista do sul,15.0,dört
+150,amontada,18.0,beş
+151,amparo,9.913793103448276,bir
+152,amparo da serra,12.0,iki
+153,ampere,13.25,üç
+154,anadia,14.0,üç
+155,anage,19.0,beş
+156,analandia,9.75,bir
+157,ananas,14.0,üç
+158,ananindeua,23.07894736842105,altı
+159,anapolis,16.90566037735849,dört
+160,anastacio,10.5,iki
+161,anaurilandia,10.0,bir
+162,anchieta,17.4375,beş
+163,andarai,22.0,altı
+164,andira,12.363636363636363,üç
+165,andorinha,17.0,dört
+166,andradas,12.090909090909092,iki
+167,andradina,9.91891891891892,bir
+168,andre da rocha,7.0,bir
+169,andrelandia,20.0,beş
+170,andrequice,20.0,beş
+171,angatuba,13.125,üç
+172,angelica,16.0,dört
+173,angelina,19.0,beş
+174,angical,23.0,altı
+175,angical do piaui,10.0,bir
+176,angicos,26.0,altı
+177,angra dos reis,15.542857142857143,dört
+178,anguera,15.0,dört
+179,angulo,11.5,iki
+180,angustura,27.0,altı
+181,anhandui,12.0,iki
+182,anhembi,29.0,altı
+183,anhumas,7.0,bir
+184,anicuns,14.0,üç
+185,anita garibaldi,18.2,beş
+186,anitapolis,25.0,altı
+187,anta,5.333333333333333,bir
+188,anta gorda,13.25,üç
+189,antonina,10.5,iki
+190,antonina do norte,22.0,altı
+191,antonio cardoso,21.0,beş
+192,antonio carlos,9.0,bir
+193,antonio goncalves,8.0,bir
+194,antonio martins,21.0,beş
+195,antonio pereira,22.0,altı
+196,antonio prado,20.75,beş
+197,antonio prado de minas,13.0,üç
+198,antunes,12.0,iki
+199,aparecida,11.4,iki
+200,aparecida d'oeste,8.0,bir
+201,aparecida de goiania,14.844660194174757,dört
+202,aparecida de monte alto,12.0,iki
+203,aparecida de sao manuel,8.5,bir
+204,aparecida do rio negro,20.0,beş
+205,aparecida do taboado,17.333333333333332,beş
+206,aperibe,14.818181818181818,dört
+207,apiaca,7.666666666666667,bir
+208,apiai,11.5,iki
+209,apiuna,11.428571428571429,iki
+210,apodi,40.666666666666664,altı
+211,apora,44.0,altı
+212,apore,11.0,iki
+213,apuarema,23.0,altı
+214,apucarana,12.479166666666666,üç
+215,apuiares,22.0,altı
+216,aquidaba,26.0,altı
+217,aquidauana,10.0,bir
+218,aquiraz,17.0,dört
+219,aracaju,20.836633663366335,beş
+220,aracariguama,9.875,bir
+221,aracati,22.4,altı
+222,aracatu,12.0,iki
+223,aracatuba,10.112,iki
+224,arace,86.5,altı
+225,araci,21.0,beş
+226,aracitaba,10.5,iki
+227,aracoiaba,21.6,altı
+228,aracoiaba da serra,9.8,bir
+229,aracruz,16.805555555555557,dört
+230,aracuai,13.11111111111111,üç
+231,aragarcas,18.666666666666668,beş
+232,aragoiania,17.0,dört
+233,araguacu,12.0,iki
+234,araguaia,8.0,bir
+235,araguaina,22.0,altı
+236,araguana,16.0,dört
+237,araguapaz,20.0,beş
+238,araguari,10.81132075471698,iki
+239,araguatins,17.8,beş
+240,aramari,74.0,altı
+241,arame,25.0,altı
+242,arandu,9.0,bir
+243,arantina,8.0,bir
+244,arapei,10.5,iki
+245,arapiraca,24.11111111111111,altı
+246,arapoema,9.0,bir
+247,araponga,11.0,iki
+248,arapongas,12.88888888888889,üç
+249,arapora,11.4,iki
+250,arapoti,12.25,üç
+251,arapua,7.0,bir
+252,araputanga,18.0,beş
+253,araquari,16.181818181818183,dört
+254,arara,17.0,dört
+255,ararangua,13.88888888888889,üç
+256,araraquara,9.575539568345324,bir
+257,araras,9.436781609195402,bir
+258,arari,18.0,beş
+259,ararica,14.0,üç
+260,araripe,31.0,altı
+261,araripina,19.727272727272727,beş
+262,araruama,17.803030303030305,beş
+263,araruna,17.0,dört
+264,arataca,15.0,dört
+265,aratiba,9.0,bir
+266,aratuba,24.0,altı
+267,araucaria,11.346153846153847,iki
+268,araujos,15.2,dört
+269,araxa,13.901408450704226,üç
+270,arceburgo,13.833333333333334,üç
+271,arcos,14.291666666666666,üç
+272,arcoverde,22.4,altı
+273,areado,12.166666666666666,iki
+274,areal,8.714285714285714,bir
+275,arealva,12.333333333333334,üç
+276,areia,29.5,altı
+277,areia branca,10.666666666666666,iki
+278,areia branca dos assis,33.333333333333336,altı
+279,areial,33.0,altı
+280,areias,9.0,bir
+281,areiopolis,7.666666666666667,bir
+282,arembepe,32.5,altı
+283,arenapolis,16.0,dört
+284,arenopolis,12.0,iki
+285,arinos,13.0,üç
+286,aripuana,27.5,altı
+287,ariquemes,23.90909090909091,altı
+288,ariranha,11.4,iki
+289,armacao dos buzios,23.11111111111111,altı
+290,armazem,7.5,bir
+291,arneiroz,30.5,altı
+292,aroeiras,34.0,altı
+293,arraial d ajuda,12.0,iki
+294,arraial d'ajuda,20.285714285714285,beş
+295,arraial do cabo,21.44,altı
+296,arraias,20.0,beş
+297,arroio do meio,12.222222222222221,üç
+298,arroio do sal,15.6,dört
+299,arroio do tigre,16.0,dört
+300,arroio dos ratos,8.777777777777779,bir
+301,arroio grande,26.0,altı
+302,arroio trinta,15.0,dört
+303,arrozal,18.333333333333332,beş
+304,artur nogueira,8.11111111111111,bir
+305,aruana,9.0,bir
+306,aruja,6.693548387096774,bir
+307,arvoredo,25.0,altı
+308,arvorezinha,15.25,dört
+309,ascurra,18.5,beş
+310,assai,19.0,beş
+311,assare,12.0,iki
+312,assis,9.621621621621621,bir
+313,assis chateaubriand,10.083333333333334,iki
+314,assuncao,53.0,altı
+315,astolfo dutra,9.9,bir
+316,astorga,10.571428571428571,iki
+317,atalaia,11.0,iki
+318,atalanta,17.0,dört
+319,ataleia,19.5,beş
+320,atibaia,8.460992907801419,bir
+321,atilio vivacqua,25.0,altı
+322,augustinopolis,18.0,beş
+323,augusto correa,10.0,bir
+324,augusto pestana,12.5,üç
+325,aurea,11.0,iki
+326,auriflama,9.6,bir
+327,aurilandia,20.0,beş
+328,aurora,17.0,dört
+329,aurora do para,10.0,bir
+330,avanhandava,9.142857142857142,bir
+331,avare,11.555555555555555,iki
+332,avelar,23.333333333333332,altı
+333,avelino lopes,19.0,beş
+334,azurita,29.666666666666668,altı
+335,bacabal,18.875,beş
+336,bacaxa,27.0,altı
+337,bacuri,18.333333333333332,beş
+338,bady bassitt,10.0,bir
+339,baependi,12.142857142857142,iki
+340,bage,17.129032258064516,beş
+341,baianopolis,31.0,altı
+342,baixa grande,14.0,üç
+343,baixa grande do ribeiro,22.0,altı
+344,baixo guandu,12.75,üç
+345,balbinos,7.0,bir
+346,baldim,10.5,iki
+347,balneario arroio do silva,20.25,beş
+348,balneario barra do sul,11.75,iki
+349,balneario camboriu,14.419354838709678,dört
+350,balneario gaivota,14.0,üç
+351,balneario picarras,17.0,dört
+352,balneario pinhal,13.285714285714286,üç
+353,balneario rincao,23.333333333333332,altı
+354,balsamo,8.8,bir
+355,balsas,25.4,altı
+356,bambui,11.0,iki
+357,banabuiu,22.0,altı
+358,bananal,10.333333333333334,iki
+359,bananeiras,16.0,dört
+360,bandeira,13.0,üç
+361,bandeira do sul,15.0,dört
+362,bandeirantes,11.357142857142858,iki
+363,bandeirantes d'oeste,13.0,üç
+364,bandeirantes do tocantins,16.5,dört
+365,banzae,32.0,altı
+366,barao,8.0,bir
+367,barao ataliba nogueira,14.0,üç
+368,barao de cocais,11.75,iki
+369,barao de cotegipe,10.5,iki
+370,barao de juparana,5.0,bir
+371,barao do triunfo,20.0,beş
+372,barauna,12.0,iki
+373,barbacena,12.126760563380282,iki
+374,barbalha,28.333333333333332,altı
+375,barbosa ferraz,9.333333333333334,bir
+376,barcarena,25.833333333333332,altı
+377,bariri,10.642857142857142,iki
+378,barra,25.5,altı
+379,barra bonita,12.08,iki
+380,barra da estiva,17.571428571428573,beş
+381,barra de guabiraba,15.5,dört
+382,barra de santa rosa,19.0,beş
+383,barra de santo antonio,20.0,beş
+384,barra de sao francisco,14.666666666666666,dört
+385,barra de sao joao,13.090909090909092,üç
+386,barra de sao miguel,24.0,altı
+387,barra do bugres,19.25,beş
+388,barra do choca,11.666666666666666,iki
+389,barra do corda,17.333333333333332,beş
+390,barra do garcas,13.4,üç
+391,barra do jacare,7.0,bir
+392,barra do mendes,24.0,altı
+393,barra do pirai,15.333333333333334,dört
+394,barra do ribeiro,12.8,üç
+395,barra do rio azul,23.0,altı
+396,barra do tarrachil,19.0,beş
+397,barra do turvo,23.0,altı
+398,barra dos coqueiros,32.666666666666664,altı
+399,barra longa,11.0,iki
+400,barra mansa,15.557522123893806,dört
+401,barra velha,16.666666666666668,dört
+402,barracao,16.666666666666668,dört
+403,barras,28.666666666666668,altı
+404,barreira,6.0,bir
+405,barreiras,18.93877551020408,beş
+406,barreirinhas,16.25,dört
+407,barreiros,15.0,dört
+408,barretos,10.432835820895523,iki
+409,barrinha,17.833333333333332,beş
+410,barro,23.25,altı
+411,barro alto,16.0,dört
+412,barro preto,12.0,iki
+413,barrocas,12.0,iki
+414,barrolandia,22.0,altı
+415,barros cassal,16.0,dört
+416,barroso,11.636363636363637,iki
+417,barueri,7.6175,bir
+418,bastos,9.117647058823529,bir
+419,bataguassu,13.8,üç
+420,bataipora,18.0,beş
+421,batalha,16.0,dört
+422,batatais,8.708333333333334,bir
+423,bataypora,12.0,iki
+424,baturite,15.666666666666666,dört
+425,bauru,9.167330677290837,bir
+426,bayeux,17.5,beş
+427,bebedouro,10.8,iki
+428,beberibe,36.0,altı
+429,bela cruz,18.25,beş
+430,bela vista,11.333333333333334,iki
+431,bela vista de goias,15.6,dört
+432,bela vista de minas,8.0,bir
+433,bela vista do maranhao,36.0,altı
+434,bela vista do paraiso,12.666666666666666,üç
+435,belem,21.907990314769975,altı
+436,belem do sao francisco,14.5,dört
+437,belford roxo,14.707070707070708,dört
+438,belmonte,16.5,dört
+439,belo campo,20.0,beş
+440,belo horizonte,11.036715357283853,iki
+441,belo jardim,15.4,dört
+442,belo oriente,9.25,bir
+443,belo vale,8.666666666666666,bir
+444,benedito leite,34.0,altı
+445,benedito novo,14.0,üç
+446,benevides,42.0,altı
+447,bento de abreu,5.0,bir
+448,bento goncalves,12.08,iki
+449,bequimao,13.0,üç
+450,berilo,11.0,iki
+451,berizal,15.0,dört
+452,bernardino de campos,11.75,iki
+453,bertioga,10.595238095238095,iki
+454,bertolinia,20.0,beş
+455,bertopolis,34.0,altı
+456,betim,11.891304347826088,iki
+457,bezerros,13.9,üç
+458,bias fortes,14.0,üç
+459,bicas,12.5,üç
+460,biguacu,16.863636363636363,dört
+461,bilac,8.285714285714286,bir
+462,birigui,9.529411764705882,bir
+463,biritiba-mirim,5.888888888888889,bir
+464,biritinga,13.0,üç
+465,bituruna,14.8,dört
+466,blumenau,12.377245508982035,üç
+467,boa esperanca,11.833333333333334,iki
+468,boa esperanca do iguacu,25.0,altı
+469,boa esperanca do sul,10.727272727272727,iki
+470,boa ventura,14.0,üç
+471,boa viagem,28.666666666666668,altı
+472,boa vista,30.102564102564102,altı
+473,boa vista da aparecida,13.25,üç
+474,boa vista das missoes,10.0,bir
+475,boa vista do burica,10.0,bir
+476,boa vista do cadeado,29.0,altı
+477,boa vista do gurupi,52.0,altı
+478,boa vista do sul,14.0,üç
+479,boca da mata,19.5,beş
+480,bocaina,9.0,bir
+481,bocaiuva,12.384615384615385,üç
+482,bocaiuva do sul,10.0,bir
+483,bodo,21.0,beş
+484,bodoco,17.5,beş
+485,bodoquena,14.0,üç
+486,bofete,15.0,dört
+487,boituva,10.295454545454545,iki
+488,bom conselho,16.142857142857142,dört
+489,bom despacho,11.742857142857142,iki
+490,bom jardim,18.125,beş
+491,bom jardim de goias,27.0,altı
+492,bom jardim de minas,15.285714285714286,dört
+493,bom jesus,14.538461538461538,dört
+494,bom jesus da lapa,16.125,dört
+495,bom jesus da penha,13.5,üç
+496,bom jesus da serra,21.0,beş
+497,bom jesus das selvas,18.5,beş
+498,bom jesus do amparo,12.0,iki
+499,bom jesus do araguaia,28.0,altı
+500,bom jesus do galho,10.0,bir
+501,bom jesus do itabapoana,18.736842105263158,beş
+502,bom jesus do norte,15.25,dört
+503,bom jesus do sul,8.0,bir
+504,bom jesus do tocantins,20.333333333333332,beş
+505,bom jesus dos perdoes,10.875,iki
+506,bom principio,15.833333333333334,dört
+507,bom repouso,19.0,beş
+508,bom retiro,10.0,bir
+509,bom retiro do sul,19.5,beş
+510,bom sucesso,12.4,üç
+511,bombinhas,15.6,dört
+512,bonfim,10.8,iki
+513,bonfim paulista,9.533333333333333,bir
+514,bonfinopolis,19.0,beş
+515,bonfinopolis de minas,14.5,dört
+516,boninal,12.0,iki
+517,bonito,20.470588235294116,beş
+518,bonito de minas,26.0,altı
+519,bonito de santa fe,19.0,beş
+520,boqueirao do leao,24.5,altı
+521,boquira,15.0,dört
+522,boraceia,7.0,bir
+523,borborema,8.0,bir
+524,borda da mata,10.833333333333334,iki
+525,borrazopolis,10.0,bir
+526,bossoroca,10.0,bir
+527,botelho,12.0,iki
+528,botelhos,12.0,iki
+529,botucatu,10.147368421052631,iki
+530,botupora,34.0,altı
+531,botuvera,13.5,üç
+532,braco do norte,13.117647058823529,üç
+533,braco do rio,26.5,altı
+534,braganca,18.625,beş
+535,braganca paulista,7.401459854014599,bir
+536,bras pires,10.5,iki
+537,brasil novo,26.0,altı
+538,brasilandia,17.0,dört
+539,brasilandia de minas,30.0,altı
+540,brasileia,30.0,altı
+541,brasilia,12.93043962159154,üç
+542,brasilia de minas,8.222222222222221,bir
+543,brasopolis,14.0,üç
+544,brauna,10.4,iki
+545,braunas,7.0,bir
+546,brazabrantes,15.5,dört
+547,brazopolis,15.166666666666666,dört
+548,brejetuba,21.0,beş
+549,brejo,22.0,altı
+550,brejo bonito,12.0,iki
+551,brejo da madre de deus,21.0,beş
+552,brejo do cruz,20.0,beş
+553,brejo dos santos,18.0,beş
+554,brejo grande,18.0,beş
+555,brejo santo,30.666666666666668,altı
+556,brejoes,23.0,altı
+557,brejolandia,31.0,altı
+558,breu branco,31.333333333333332,altı
+559,breves,26.0,altı
+560,britania,12.0,iki
+561,brodowski,9.428571428571429,bir
+562,brotas,10.272727272727273,iki
+563,brotas de macaubas,20.0,beş
+564,brumadinho,10.28,iki
+565,brumado,18.294117647058822,beş
+566,brusque,14.25,üç
+567,bueno brandao,17.25,beş
+568,buenopolis,17.666666666666668,beş
+569,buenos aires,15.0,dört
+570,buerarema,26.5,altı
+571,bugre,21.0,beş
+572,buique,20.0,beş
+573,buri,10.5,iki
+574,buritama,15.666666666666666,dört
+575,buriti alegre,15.0,dört
+576,buriti do tocantins,27.0,altı
+577,buriti dos lopes,9.5,bir
+578,buriticupu,17.666666666666668,beş
+579,buritirama,42.5,altı
+580,buritis,13.083333333333334,üç
+581,buritizal,11.5,iki
+582,buritizeiro,13.6,üç
+583,butia,14.666666666666666,dört
+584,caarapo,12.25,üç
+585,cabaceiras do paraguacu,20.0,beş
+586,cabeceira grande,18.0,beş
+587,cabeceiras,17.0,dört
+588,cabedelo,16.5,dört
+589,cabixi,25.0,altı
+590,cabo de santo agostinho,15.85,dört
+591,cabo frio,18.281553398058254,beş
+592,cabo verde,10.0,bir
+593,cabralia paulista,12.0,iki
+594,cabreuva,10.666666666666666,iki
+595,cabrobo,20.666666666666668,beş
+596,cacador,13.025641025641026,üç
+597,cacapava,9.909090909090908,bir
+598,cacapava do sul,15.0,dört
+599,cacaulandia,18.0,beş
+600,cacequi,12.333333333333334,üç
+601,caceres,17.714285714285715,beş
+602,cachoeira,17.75,beş
+603,cachoeira alta,11.8,iki
+604,cachoeira da prata,9.5,bir
+605,cachoeira de minas,16.5,dört
+606,cachoeira de pajeu,13.333333333333334,üç
+607,cachoeira do brumado,27.0,altı
+608,cachoeira do campo,8.0,bir
+609,cachoeira do sul,13.11111111111111,üç
+610,cachoeira dourada,10.0,bir
+611,cachoeira paulista,7.521739130434782,bir
+612,cachoeiras de macacu,14.555555555555555,dört
+613,cachoeirinha,14.228571428571428,üç
+614,cachoeiro de itapemirim,13.921052631578947,üç
+615,cacoal,16.181818181818183,dört
+616,caconde,8.444444444444445,bir
+617,cacu,19.5,beş
+618,cacule,40.0,altı
+619,caem,14.0,üç
+620,caetanopolis,9.5,bir
+621,caete,12.846153846153847,üç
+622,caetes,9.0,bir
+623,caetite,17.1,beş
+624,cafeara,12.5,üç
+625,cafelandia,9.764705882352942,bir
+626,caiana,13.0,üç
+627,caiaponia,11.5,iki
+628,caibate,7.0,bir
+629,caibi,13.333333333333334,üç
+630,caicara do norte,22.0,altı
+631,caico,17.8,beş
+632,caieiras,7.544444444444444,bir
+633,cairu,25.0,altı
+634,caiua,8.5,bir
+635,cajamar,8.1,bir
+636,cajapio,20.0,beş
+637,cajari,8.0,bir
+638,cajati,11.0,iki
+639,cajazeiras,22.0,altı
+640,cajobi,6.75,bir
+641,cajueiro,27.0,altı
+642,cajuri,13.0,üç
+643,cajuru,14.375,dört
+644,calcado,10.0,bir
+645,caldas,13.75,üç
+646,caldas brandao,14.0,üç
+647,caldas do jorro,26.0,altı
+648,caldas novas,17.085714285714285,beş
+649,caldeirao grande,16.5,dört
+650,caldeirao grande do piaui,22.0,altı
+651,california,10.5,iki
+652,california da barra,11.2,iki
+653,calmon,29.0,altı
+654,camacan,21.0,beş
+655,camacari,20.818181818181817,beş
+656,camacho,8.0,bir
+657,camamu,19.75,beş
+658,camanducaia,14.5,dört
+659,camapua,16.5,dört
+660,camaqua,8.88888888888889,bir
+661,camaragibe,21.0,beş
+662,cambara,13.555555555555555,üç
+663,cambara do sul,4.0,bir
+664,cambe,13.307692307692308,üç
+665,cambiasca,9.0,bir
+666,cambira,18.0,beş
+667,camboriu,13.923076923076923,üç
+668,cambuci,21.625,altı
+669,cambui,16.4,dört
+670,cambuquira,12.2,üç
+671,cameta,23.25,altı
+672,camocim,25.142857142857142,altı
+673,camocim de sao felix,10.5,iki
+674,campanario,10.5,iki
+675,campanha,15.6,dört
+676,campestre,11.0,iki
+677,campestre da serra,16.0,dört
+678,campestre do maranhao,28.0,altı
+679,campina da lagoa,50.5,altı
+680,campina das missoes,22.0,altı
+681,campina do monte alegre,8.0,bir
+682,campina grande,18.403225806451612,beş
+683,campina grande do sul,11.125,iki
+684,campina verde,11.0,iki
+685,campinacu,11.0,iki
+686,campinapolis,32.333333333333336,altı
+687,campinas,9.844036697247706,bir
+688,campinas do sul,10.833333333333334,iki
+689,campinorte,15.714285714285714,dört
+690,campo alegre,38.0,altı
+691,campo alegre de goias,28.5,altı
+692,campo alegre de lourdes,18.0,beş
+693,campo alegre de minas,18.0,beş
+694,campo alegre do fidalgo,23.0,altı
+695,campo azul,9.0,bir
+696,campo belo,11.4,iki
+697,campo bom,12.8125,üç
+698,campo do brito,15.0,dört
+699,campo do meio,14.25,üç
+700,campo do tenente,37.0,altı
+701,campo ere,13.857142857142858,üç
+702,campo florido,12.0,iki
+703,campo formoso,20.555555555555557,beş
+704,campo grande,14.729166666666666,dört
+705,campo grande do piaui,13.0,üç
+706,campo largo,9.46875,bir
+707,campo limpo paulista,11.446808510638299,iki
+708,campo magro,19.0,beş
+709,campo maior,17.5,beş
+710,campo mourao,12.846153846153847,üç
+711,campo novo,20.0,beş
+712,campo novo do parecis,16.153846153846153,dört
+713,campo verde,19.2,beş
+714,campos altos,12.0,iki
+715,campos belos,16.0,dört
+716,campos borges,18.0,beş
+717,campos de julio,13.666666666666666,üç
+718,campos do jordao,11.64,iki
+719,campos dos goytacazes,14.743119266055047,dört
+720,campos gerais,11.25,iki
+721,campos novos,13.076923076923077,üç
+722,campos sales,26.333333333333332,altı
+723,campos verdes,13.0,üç
+724,camutanga,12.333333333333334,üç
+725,canaa,12.0,iki
+726,canaa dos carajas,37.0,altı
+727,cananeia,14.25,üç
+728,canapi,39.0,altı
+729,canapolis,16.333333333333332,dört
+730,canarana,22.363636363636363,altı
+731,canavieiras,21.0,beş
+732,candeal,23.0,altı
+733,candeias,14.904761904761905,dört
+734,candeias do jamari,25.0,altı
+735,candelaria,11.25,iki
+736,candido de abreu,15.5,dört
+737,candido mendes,38.0,altı
+738,candido mota,9.375,bir
+739,candido rodrigues,8.0,bir
+740,candido sales,23.333333333333332,altı
+741,candiota,17.25,beş
+742,candoi,9.0,bir
+743,canela,11.235294117647058,iki
+744,canelinha,13.75,üç
+745,cangucu,17.818181818181817,beş
+746,canhotinho,23.5,altı
+747,caninde,20.8,beş
+748,caninde de sao francisco,21.0,beş
+749,canitar,5.5,bir
+750,canoas,16.89637305699482,dört
+751,canoinhas,12.37037037037037,üç
+752,cansancao,13.428571428571429,üç
+753,cantagalo,16.333333333333332,dört
+754,cantanhede,18.0,beş
+755,canto do buriti,19.0,beş
+756,canudos,14.0,üç
+757,capanema,15.818181818181818,dört
+758,capao bonito,11.0,iki
+759,capao da canoa,16.058823529411764,dört
+760,capao da porteira,19.5,beş
+761,capao do cipo,18.5,beş
+762,capao do leao,27.5,altı
+763,caparao,12.0,iki
+764,capela,25.333333333333332,altı
+765,capela de santana,12.5,üç
+766,capela do alto,26.333333333333332,altı
+767,capela do alto alegre,25.0,altı
+768,capela nova,9.0,bir
+769,capelinha,10.894736842105264,iki
+770,capetinga,10.5,iki
+771,capim branco,15.5,dört
+772,capim grosso,18.0,beş
+773,capinopolis,11.3,iki
+774,capinzal,14.7,dört
+775,capinzal do norte,109.0,altı
+776,capistrano,12.0,iki
+777,capitao andrade,11.0,iki
+778,capitao leonidas marques,10.8,iki
+779,capitao poco,35.333333333333336,altı
+780,capitolio,7.333333333333333,bir
+781,capivari,8.96875,bir
+782,capivari de baixo,19.0,beş
+783,capivari do sul,23.0,altı
+784,capoeiras,9.0,bir
+785,caputira,11.5,iki
+786,caracol,5.0,bir
+787,caraguatatuba,11.316455696202532,iki
+788,carai,10.6,iki
+789,caraiba,17.0,dört
+790,caraibas,14.0,üç
+791,carajas,15.5,dört
+792,carambei,12.333333333333334,üç
+793,carandai,13.555555555555555,üç
+794,carangola,11.333333333333334,iki
+795,carapebus,17.2,beş
+796,carapicuiba,7.3447098976109215,bir
+797,caratinga,12.275862068965518,üç
+798,caraubas,14.0,üç
+799,caravelas,15.0,dört
+800,carazinho,14.217391304347826,üç
+801,carbonita,10.25,iki
+802,cardoso,10.5,iki
+803,cardoso moreira,13.333333333333334,üç
+804,careacu,12.5,üç
+805,cariacica,14.91869918699187,dört
+806,caridade,21.0,beş
+807,carinhanha,25.0,altı
+808,carire,17.333333333333332,beş
+809,cariri do tocantins,16.0,dört
+810,caririacu,12.0,iki
+811,carius,32.666666666666664,altı
+812,carlinda,14.5,dört
+813,carlopolis,10.5,iki
+814,carlos barbosa,15.222222222222221,dört
+815,carlos chagas,13.0,üç
+816,carmesia,20.0,beş
+817,carmo,19.636363636363637,beş
+818,carmo da cachoeira,14.5,dört
+819,carmo da mata,11.833333333333334,iki
+820,carmo de minas,10.666666666666666,iki
+821,carmo do cajuru,10.75,iki
+822,carmo do paranaiba,15.266666666666667,dört
+823,carmo do rio claro,11.5,iki
+824,carmo do rio verde,14.0,üç
+825,carmolandia,20.0,beş
+826,carmopolis,28.5,altı
+827,carmopolis de minas,11.0,iki
+828,carnauba dos dantas,18.0,beş
+829,carnaubais,14.5,dört
+830,carnaubal,27.5,altı
+831,carneirinho,8.0,bir
+832,carolina,23.0,altı
+833,carpina,25.1,altı
+834,carrancas,12.666666666666666,üç
+835,caruaru,17.771929824561404,beş
+836,carutapera,16.5,dört
+837,carvalhopolis,18.0,beş
+838,casa branca,10.076923076923077,iki
+839,casa nova,18.0,beş
+840,casca,14.571428571428571,dört
+841,cascalho rico,19.0,beş
+842,cascavel,11.97872340425532,iki
+843,caseiros,17.0,dört
+844,casimiro de abreu,13.166666666666666,üç
+845,cassia,8.333333333333334,bir
+846,cassia dos coqueiros,11.0,iki
+847,cassilandia,15.2,dört
+848,castanhal,21.736842105263158,altı
+849,castanheira,19.0,beş
+850,castanheiras,21.0,beş
+851,castelandia,14.0,üç
+852,castelo,18.375,beş
+853,castelo do piaui,15.0,dört
+854,castilho,8.222222222222221,bir
+855,castro,12.31578947368421,üç
+856,castro alves,17.0,dört
+857,cataguases,11.931034482758621,iki
+858,catalao,17.933333333333334,beş
+859,catanduva,8.852941176470589,bir
+860,catanduvas,13.0,üç
+861,catarina,12.0,iki
+862,catas altas,14.2,üç
+863,catende,19.571428571428573,beş
+864,catigua,9.666666666666666,bir
+865,catole do rocha,17.666666666666668,beş
+866,catu,22.1,altı
+867,catu de abrantes,43.0,altı
+868,catuipe,22.0,altı
+869,caturama,19.0,beş
+870,caucaia,24.363636363636363,altı
+871,cavalcante,16.0,dört
+872,caxambu,14.0625,üç
+873,caxambu do sul,17.0,dört
+874,caxias,20.0625,beş
+875,caxias do sul,15.751196172248804,dört
+876,ceara-mirim,10.0,bir
+877,cedral,16.444444444444443,dört
+878,cedro,12.0,iki
+879,cedro de sao joao,25.666666666666668,altı
+880,cedro do abaete,7.0,bir
+881,ceilandia,18.0,beş
+882,celina,22.5,altı
+883,celso ramos,18.0,beş
+884,centenario,20.0,beş
+885,centenario do sul,17.75,beş
+886,central,47.0,altı
+887,central de santa helena,10.0,bir
+888,centralina,14.0,üç
+889,centro novo do maranhao,26.0,altı
+890,cerejeiras,12.0,iki
+891,ceres,12.857142857142858,üç
+892,cerqueira cesar,12.764705882352942,üç
+893,cerquilho,10.357142857142858,iki
+894,cerrito,14.0,üç
+895,cerro azul,12.75,üç
+896,cerro grande,12.0,iki
+897,cerro grande do sul,8.5,bir
+898,cerro largo,16.666666666666668,dört
+899,cerro negro,22.0,altı
+900,cesario lange,8.461538461538462,bir
+901,ceu azul,14.714285714285714,dört
+902,cezarina,11.0,iki
+903,cha de alegria,25.0,altı
+904,cha grande,9.0,bir
+905,chacara,15.5,dört
+906,chale,14.5,dört
+907,chapada,24.25,altı
+908,chapada do norte,33.0,altı
+909,chapada dos guimaraes,22.0,altı
+910,chapada gaucha,20.25,beş
+911,chapadao do ceu,13.285714285714286,üç
+912,chapadao do sul,21.214285714285715,altı
+913,chapadinha,15.0,dört
+914,chapeco,16.3,dört
+915,charqueada,15.1,dört
+916,charqueadas,15.0625,dört
+917,charrua,13.0,üç
+918,chaval,15.0,dört
+919,chavantes,9.909090909090908,bir
+920,chaveslandia,29.5,altı
+921,chiapetta,9.0,bir
+922,chopinzinho,13.25,üç
+923,chorozinho,14.0,üç
+924,chorrocho,23.0,altı
+925,chui,12.8,üç
+926,cianorte,11.846153846153847,iki
+927,cicero dantas,23.428571428571427,altı
+928,cidade gaucha,17.0,dört
+929,cidade ocidental,12.875,üç
+930,cidelandia,23.0,altı
+931,cidreira,15.25,dört
+932,cipo,26.0,altı
+933,ciriaco,18.0,beş
+934,claraval,8.0,bir
+935,claro dos pocoes,7.0,bir
+936,claudia,21.333333333333332,altı
+937,claudio,13.55,üç
+938,clementina,10.5,iki
+939,clevelandia,14.0,üç
+940,coaraci,23.75,altı
+941,coari,21.0,beş
+942,cocais,18.0,beş
+943,cocal,15.285714285714286,dört
+944,cocal do sul,11.25,iki
+945,cocalinho,18.0,beş
+946,cocalzinho de goias,7.0,bir
+947,cocos,32.0,altı
+948,codo,17.0,dört
+949,coelho neto,21.0,beş
+950,coimbra,16.0,dört
+951,coite do noia,12.0,iki
+952,colatina,12.932203389830509,üç
+953,colider,26.0,altı
+954,colina,10.777777777777779,iki
+955,colinas,23.5,altı
+956,colinas do tocantins,19.0,beş
+957,colmeia,17.0,dört
+958,colniza,20.0,beş
+959,colombia,11.25,iki
+960,colombo,11.839285714285714,iki
+961,colonia castrolanda,15.0,dört
+962,colonia jordaozinho,18.0,beş
+963,colonia leopoldina,15.0,dört
+964,colonia vitoria,19.4,beş
+965,colorado,12.75,üç
+966,colorado do oeste,14.333333333333334,üç
+967,coluna,11.333333333333334,iki
+968,combinado,10.0,bir
+969,comendador levy gasparian,11.666666666666666,iki
+970,comercinho,16.0,dört
+971,comodoro,19.285714285714285,beş
+972,conceicao,20.5,beş
+973,conceicao da aparecida,11.0,iki
+974,conceicao da barra,17.666666666666668,beş
+975,conceicao da feira,84.0,altı
+976,conceicao da ibitipoca,41.0,altı
+977,conceicao das alagoas,7.333333333333333,bir
+978,conceicao das pedras,11.0,iki
+979,conceicao de macabu,19.545454545454547,beş
+980,conceicao do almeida,21.0,beş
+981,conceicao do araguaia,21.571428571428573,altı
+982,conceicao do caninde,15.0,dört
+983,conceicao do castelo,10.6,iki
+984,conceicao do coite,19.5,beş
+985,conceicao do jacuipe,24.333333333333332,altı
+986,conceicao do mato dentro,11.8,iki
+987,conceicao do para,9.333333333333334,bir
+988,conceicao do rio verde,11.5,iki
+989,conceicao do tocantins,21.333333333333332,altı
+990,conceicao dos ouros,11.75,iki
+991,conchal,11.210526315789474,iki
+992,conchas,8.571428571428571,bir
+993,concordia,16.46511627906977,dört
+994,concordia do para,25.666666666666668,altı
+995,condado,13.5,üç
+996,conde,37.5,altı
+997,condeuba,18.0,beş
+998,condor,12.0,iki
+999,confins,20.0,beş
+1000,confresa,18.285714285714285,beş
+1001,congonhal,12.0,iki
+1002,congonhas,13.071428571428571,üç
+1003,congonhinhas,15.5,dört
+1004,conquista,12.5,üç
+1005,conquista d'oeste,31.0,altı
+1006,conrado,10.0,bir
+1007,conselheiro lafaiete,13.4,üç
+1008,conselheiro mairinck,6.0,bir
+1009,conselheiro pena,12.076923076923077,iki
+1010,conservatoria,8.666666666666666,bir
+1011,constantina,12.0,iki
+1012,contagem,11.02061855670103,iki
+1013,contenda,4.0,bir
+1014,coqueiro baixo,15.5,dört
+1015,coqueiros do sul,11.0,iki
+1016,coracao de jesus,9.333333333333334,bir
+1017,coracao de maria,17.0,dört
+1018,corbelia,13.0,üç
+1019,cordeiro,11.791666666666666,iki
+1020,cordeiropolis,9.571428571428571,bir
+1021,cordeiros,17.0,dört
+1022,coreau,21.0,beş
+1023,coremas,18.0,beş
+1024,corguinho,17.0,dört
+1025,coribe,18.5,beş
+1026,corinto,9.636363636363637,bir
+1027,cornelio procopio,12.25,üç
+1028,coroaci,12.0,iki
+1029,coroados,13.0,üç
+1030,coroata,18.333333333333332,beş
+1031,coromandel,13.5,üç
+1032,coronel domingos soares,29.0,altı
+1033,coronel fabriciano,9.435897435897436,bir
+1034,coronel freitas,8.0,bir
+1035,coronel joao pessoa,15.0,dört
+1036,coronel joao sa,17.333333333333332,beş
+1037,coronel macedo,7.5,bir
+1038,coronel martins,15.0,dört
+1039,coronel murta,16.0,dört
+1040,coronel pacheco,14.0,üç
+1041,coronel sapucaia,16.0,dört
+1042,coronel vivida,13.727272727272727,üç
+1043,corrego danta,6.0,bir
+1044,corrego fundo,25.0,altı
+1045,correia pinto,16.727272727272727,dört
+1046,corrente,17.5,beş
+1047,correntes,16.0,dört
+1048,correntina,20.0,beş
+1049,cortes,20.0,beş
+1050,corumba,17.576923076923077,beş
+1051,corumba de goias,10.0,bir
+1052,corumbaiba,10.25,iki
+1053,corumbatai,8.0,bir
+1054,corumbatai do sul,13.0,üç
+1055,corupa,14.0,üç
+1056,coruripe,26.0,altı
+1057,cosmopolis,10.272727272727273,iki
+1058,cosmorama,10.2,iki
+1059,costa marques,24.0,altı
+1060,costa rica,18.454545454545453,beş
+1061,cotegipe,32.0,altı
+1062,cotia,7.110619469026549,bir
+1063,cotipora,21.0,beş
+1064,cotriguacu,21.0,beş
+1065,couto de magalhaes,16.0,dört
+1066,coxilha,23.0,altı
+1067,coxim,19.636363636363637,beş
+1068,crateus,17.11111111111111,beş
+1069,crato,16.833333333333332,dört
+1070,cravinhos,8.952380952380953,bir
+1071,cravolandia,20.0,beş
+1072,criciuma,14.788235294117648,dört
+1073,crisolita,14.5,dört
+1074,crisopolis,18.333333333333332,beş
+1075,crissiumal,11.0,iki
+1076,cristais,11.333333333333334,iki
+1077,cristais paulista,11.25,iki
+1078,cristal,20.333333333333332,beş
+1079,cristalandia,18.666666666666668,beş
+1080,cristalia,14.666666666666666,dört
+1081,cristalina,19.5,beş
+1082,cristiano otoni,14.0,üç
+1083,cristina,14.5,dört
+1084,cristinapolis,19.0,beş
+1085,cristopolis,14.0,üç
+1086,crixas,18.857142857142858,beş
+1087,croata,19.0,beş
+1088,crominia,9.0,bir
+1089,crucilandia,8.0,bir
+1090,cruz,23.166666666666668,altı
+1091,cruz alta,11.827586206896552,iki
+1092,cruz das almas,17.8125,beş
+1093,cruz machado,8.333333333333334,bir
+1094,cruzalia,10.333333333333334,iki
+1095,cruzeiro,10.458333333333334,iki
+1096,cruzeiro da fortaleza,9.5,bir
+1097,cruzeiro do iguacu,11.0,iki
+1098,cruzeiro do oeste,7.285714285714286,bir
+1099,cruzeiro do sul,18.6,beş
+1100,cruzilia,10.5,iki
+1101,cubatao,10.662162162162161,iki
+1102,cubati,32.0,altı
+1103,cuiaba,18.660633484162897,beş
+1104,cuite,15.0,dört
+1105,cujubim,14.0,üç
+1106,cumari,8.5,bir
+1107,cumaru,25.0,altı
+1108,cunha,10.363636363636363,iki
+1109,cunha pora,17.0,dört
+1110,cupira,33.0,altı
+1111,curaca,36.5,altı
+1112,curitiba,10.451867816091953,iki
+1113,curitibanos,13.25,üç
+1114,curiuva,10.0,bir
+1115,currais novos,43.42857142857143,altı
+1116,curral de cima,18.0,beş
+1117,curuca,19.333333333333332,beş
+1118,cururupu,25.666666666666668,altı
+1119,curvelandia,22.0,altı
+1120,curvelo,13.846153846153847,üç
+1121,custodia,10.6,iki
+1122,damianopolis,13.5,üç
+1123,dario meira,15.0,dört
+1124,david canabarro,19.0,beş
+1125,delfim moreira,5.0,bir
+1126,delfinopolis,9.0,bir
+1127,delmiro gouveia,25.0,altı
+1128,demerval lobao,14.0,üç
+1129,denise,14.0,üç
+1130,deodapolis,21.0,beş
+1131,deputado irapuan pinheiro,21.0,beş
+1132,descalvado,8.75,bir
+1133,descoberto,10.333333333333334,iki
+1134,desembargador otoni,32.0,altı
+1135,desterro,32.0,altı
+1136,desterro de entre rios,9.0,bir
+1137,desterro do melo,8.0,bir
+1138,dezesseis de novembro,18.0,beş
+1139,diadema,8.37890625,bir
+1140,diamante d'oeste,18.0,beş
+1141,diamante do norte,11.5,iki
+1142,diamantina,11.038461538461538,iki
+1143,diamantino,13.142857142857142,üç
+1144,dianopolis,19.714285714285715,beş
+1145,dias d avila,18.0,beş
+1146,dias d'avila,13.954545454545455,üç
+1147,diogo de vasconcelos,23.5,altı
+1148,dionisio,8.0,bir
+1149,dionisio cerqueira,23.0,altı
+1150,diorama,14.5,dört
+1151,divinesia,9.0,bir
+1152,divino,11.538461538461538,iki
+1153,divino das laranjeiras,4.0,bir
+1154,divino de sao lourenco,17.0,dört
+1155,divinolandia,12.333333333333334,üç
+1156,divinolandia de minas,9.4,bir
+1157,divinopolis,11.103174603174603,iki
+1158,divinopolis de goias,15.0,dört
+1159,divinopolis do tocantins,16.0,dört
+1160,divisa alegre,12.5,üç
+1161,divisa nova,20.0,beş
+1162,dobrada,7.5,bir
+1163,dois corregos,8.272727272727273,bir
+1164,dois irmaos,12.6875,üç
+1165,dois irmaos do buriti,11.0,iki
+1166,dois riachos,33.0,altı
+1167,dois vizinhos,14.884615384615385,dört
+1168,dom aquino,16.0,dört
+1169,dom basilio,16.666666666666668,dört
+1170,dom cavati,10.0,bir
+1171,dom eliseu,17.8,beş
+1172,dom feliciano,13.0,üç
+1173,dom joaquim,10.0,bir
+1174,dom macedo costa,35.0,altı
+1175,dom pedrito,15.5,dört
+1176,dom pedro,20.5,beş
+1177,dom silverio,14.75,dört
+1178,dom vicoso,8.5,bir
+1179,domingos martins,16.333333333333332,dört
+1180,dona emma,27.0,altı
+1181,dona euzebia,10.0,bir
+1182,dona francisca,14.0,üç
+1183,dores de campos,13.0,üç
+1184,dores do indaia,14.2,üç
+1185,dores do rio preto,21.333333333333332,altı
+1186,dormentes,16.0,dört
+1187,douradina,7.0,bir
+1188,dourado,10.428571428571429,iki
+1189,dourados,15.758620689655173,dört
+1190,doutor camargo,10.0,bir
+1191,doverlandia,14.5,dört
+1192,dracena,10.541666666666666,iki
+1193,duartina,6.875,bir
+1194,duas barras,48.0,altı
+1195,duere,14.0,üç
+1196,dumont,8.0,bir
+1197,duque de caxias,15.416666666666666,dört
+1198,durande,8.5,bir
+1199,echapora,8.0,bir
+1200,ecoporanga,12.0,iki
+1201,edeia,18.0,beş
+1202,eldorado,16.0,dört
+1203,eldorado do sul,13.333333333333334,üç
+1204,elias fausto,13.0,üç
+1205,eliseu martins,11.0,iki
+1206,elisiario,9.0,bir
+1207,elisio medrado,8.5,bir
+1208,eloi mendes,12.0,iki
+1209,embauba,4.0,bir
+1210,embu,9.75,bir
+1211,embu das artes,8.584415584415584,bir
+1212,embu-guacu,8.55,bir
+1213,emilianopolis,14.5,dört
+1214,encantado,14.2,üç
+1215,encruzilhada do sul,12.875,üç
+1216,eneas marques,23.0,altı
+1217,engenheiro balduino,9.0,bir
+1218,engenheiro coelho,10.272727272727273,iki
+1219,engenheiro passos,7.0,bir
+1220,engenheiro paulo de frontin,19.4,beş
+1221,entre folhas,11.0,iki
+1222,entre rios,13.8,üç
+1223,entre rios de minas,12.142857142857142,iki
+1224,entre rios do oeste,15.333333333333334,dört
+1225,entre-ijuis,9.666666666666666,bir
+1226,epitaciolandia,13.0,üç
+1227,erebango,16.0,dört
+1228,erechim,16.0188679245283,dört
+1229,erere,8.0,bir
+1230,erico cardoso,14.0,üç
+1231,erval grande,14.5,dört
+1232,ervalia,11.285714285714286,iki
+1233,escada,24.555555555555557,altı
+1234,esmeralda,14.0,üç
+1235,esmeraldas,9.153846153846153,bir
+1236,espera feliz,10.894736842105264,iki
+1237,esperanca,20.5,beş
+1238,esperantina,17.0,dört
+1239,esperantinopolis,24.0,altı
+1240,espigao,8.0,bir
+1241,espigao alto do iguacu,15.5,dört
+1242,espigao do oeste,15.166666666666666,dört
+1243,espinosa,13.25,üç
+1244,espirito santo do pinhal,9.222222222222221,bir
+1245,espirito santo do turvo,7.5,bir
+1246,esplanada,11.8,iki
+1247,espumoso,20.714285714285715,beş
+1248,estacao,11.0,iki
+1249,estancia,16.875,dört
+1250,estancia velha,12.352941176470589,üç
+1251,esteio,17.864864864864863,beş
+1252,estiva,11.0,iki
+1253,estiva gerbi,8.142857142857142,bir
+1254,estreito,16.666666666666668,dört
+1255,estrela,10.0,bir
+1256,estrela d oeste,15.0,dört
+1257,estrela d'oeste,8.0,bir
+1258,estrela do indaia,10.0,bir
+1259,estrela do norte,6.333333333333333,bir
+1260,estrela do sul,15.0,dört
+1261,estrela velha,19.0,beş
+1262,euclides da cunha,21.8,altı
+1263,euclides da cunha paulista,9.5,bir
+1264,eugenio de castro,14.0,üç
+1265,eugenopolis,13.6,üç
+1266,eunapolis,16.176470588235293,dört
+1267,eusebio,15.625,dört
+1268,ewbank da camara,15.0,dört
+1269,extrema,11.564102564102564,iki
+1270,extremoz,29.5,altı
+1271,fagundes,13.0,üç
+1272,farol,12.0,iki
+1273,farroupilha,11.777777777777779,iki
+1274,fartura,12.4,üç
+1275,fatima,12.333333333333334,üç
+1276,fatima do sul,13.5,üç
+1277,faxinal,12.11111111111111,iki
+1278,faxinal dos guedes,19.5,beş
+1279,faxinalzinho,10.0,bir
+1280,fazenda nova,13.0,üç
+1281,fazenda rio grande,12.703703703703704,üç
+1282,fazenda vilanova,9.5,bir
+1283,feira de santana,16.451428571428572,dört
+1284,feira nova,23.25,altı
+1285,felicio dos santos,55.0,altı
+1286,felipe guerra,15.0,dört
+1287,felisburgo,13.0,üç
+1288,felixlandia,10.0,bir
+1289,feliz,15.076923076923077,dört
+1290,feliz deserto,21.0,beş
+1291,feliz natal,13.0,üç
+1292,fenix,12.0,iki
+1293,fernando prestes,7.0,bir
+1294,fernandopolis,9.8,bir
+1295,fernao,10.0,bir
+1296,ferraz de vasconcelos,8.548076923076923,bir
+1297,ferreiros,9.0,bir
+1298,ferros,9.0,bir
+1299,fervedouro,12.125,iki
+1300,figueira,13.666666666666666,üç
+1301,figueiropolis d'oeste,12.5,üç
+1302,filadelfia,16.0,dört
+1303,firminopolis,12.285714285714286,üç
+1304,flor da serra do sul,10.5,iki
+1305,flora rica,9.0,bir
+1306,florai,14.5,dört
+1307,florania,15.0,dört
+1308,floreal,12.5,üç
+1309,flores,14.0,üç
+1310,flores da cunha,9.666666666666666,bir
+1311,flores de goias,8.0,bir
+1312,floresta,19.545454545454547,beş
+1313,floresta do araguaia,29.0,altı
+1314,florestal,7.666666666666667,bir
+1315,florestopolis,8.666666666666666,bir
+1316,floriano,21.38888888888889,altı
+1317,florianopolis,15.085551330798479,dört
+1318,florida,11.0,iki
+1319,florida paulista,9.25,bir
+1320,florinia,10.0,bir
+1321,fonseca,12.0,iki
+1322,fontoura xavier,9.0,bir
+1323,formiga,10.166666666666666,iki
+1324,formigueiro,10.0,bir
+1325,formosa,18.29032258064516,beş
+1326,formosa da serra negra,42.0,altı
+1327,formosa do oeste,14.0,üç
+1328,formosa do rio preto,15.5,dört
+1329,formoso,11.666666666666666,iki
+1330,formoso do araguaia,21.5,altı
+1331,forquilha,19.25,beş
+1332,forquilhinha,17.181818181818183,beş
+1333,fortaleza,20.57314974182444,beş
+1334,fortaleza dos valos,15.0,dört
+1335,fortim,30.0,altı
+1336,fortuna,23.666666666666668,altı
+1337,foz do iguacu,13.316455696202532,üç
+1338,foz do jordao,21.0,beş
+1339,fragosos,23.0,altı
+1340,fraiburgo,14.23076923076923,üç
+1341,franca,10.573426573426573,iki
+1342,francisco badaro,14.5,dört
+1343,francisco beltrao,10.042553191489361,iki
+1344,francisco dantas,16.0,dört
+1345,francisco dumont,9.5,bir
+1346,francisco morato,8.793103448275861,bir
+1347,francisco sa,15.666666666666666,dört
+1348,francisco santos,21.0,beş
+1349,franco da rocha,7.2,bir
+1350,frecheirinha,24.5,altı
+1351,frederico westphalen,16.928571428571427,dört
+1352,frei gaspar,5.0,bir
+1353,frei inocencio,9.2,bir
+1354,frei lagonegro,10.0,bir
+1355,frei martinho,21.0,beş
+1356,frei rogerio,11.0,iki
+1357,fronteira,12.0,iki
+1358,fronteiras,19.333333333333332,beş
+1359,fruta de leite,17.0,dört
+1360,frutal,9.0,bir
+1361,frutuoso gomes,21.0,beş
+1362,fundao,9.25,bir
+1363,gabriel monteiro,8.0,bir
+1364,galia,26.0,altı
+1365,galinhos,42.0,altı
+1366,galvao,13.0,üç
+1367,gameleira,31.0,altı
+1368,gameleiras,9.0,bir
+1369,gandu,18.75,beş
+1370,garanhuns,18.06896551724138,beş
+1371,garca,9.8,bir
+1372,garibaldi,10.555555555555555,iki
+1373,garopaba,13.473684210526315,üç
+1374,garrafao do norte,31.666666666666668,altı
+1375,garruchos,16.0,dört
+1376,garuva,11.0,iki
+1377,gaspar,12.666666666666666,üç
+1378,gastao vidigal,7.333333333333333,bir
+1379,gaucha do norte,12.0,iki
+1380,gaurama,11.0,iki
+1381,gaviao peixoto,13.5,üç
+1382,general camara,23.0,altı
+1383,general carneiro,20.4,beş
+1384,general maynard,13.0,üç
+1385,general salgado,10.666666666666666,iki
+1386,gentio do ouro,24.0,altı
+1387,getulina,14.0,üç
+1388,getulio vargas,16.25,dört
+1389,gilbues,38.0,altı
+1390,girau do ponciano,14.0,üç
+1391,girua,18.5,beş
+1392,glicerio,21.5,altı
+1393,gloria de dourados,21.0,beş
+1394,gloria do goita,12.5,üç
+1395,glorinha,6.5,bir
+1396,godoy moreira,13.0,üç
+1397,goiabeira,16.0,dört
+1398,goiana,16.0,dört
+1399,goianapolis,12.5,üç
+1400,goiandira,7.0,bir
+1401,goianesia,13.733333333333333,üç
+1402,goianesia do para,15.333333333333334,dört
+1403,goiania,15.569805194805195,dört
+1404,goianinha,13.666666666666666,üç
+1405,goianira,20.25,beş
+1406,goianorte,16.0,dört
+1407,goias,14.5,dört
+1408,goiatuba,17.5,beş
+1409,goioere,10.9,iki
+1410,goitacazes,14.272727272727273,üç
+1411,goncalves,14.333333333333334,üç
+1412,goncalves dias,48.0,altı
+1413,gongogi,14.0,üç
+1414,gouveia,22.666666666666668,altı
+1415,governador celso ramos,28.666666666666668,altı
+1416,governador dix-sept rosado,22.0,altı
+1417,governador eugenio barros,20.0,beş
+1418,governador lindenberg,10.5,iki
+1419,governador mangabeira,20.0,beş
+1420,governador portela,9.25,bir
+1421,governador valadares,11.453846153846154,iki
+1422,graccho cardoso,21.0,beş
+1423,grajau,18.4,beş
+1424,gramado,13.291666666666666,üç
+1425,gramado dos loureiros,11.0,iki
+1426,gramado xavier,9.0,bir
+1427,grandes rios,15.5,dört
+1428,granja,29.4,altı
+1429,grao mogol,18.0,beş
+1430,grao para,15.666666666666666,dört
+1431,gravata,19.0,beş
+1432,gravatai,14.247706422018348,üç
+1433,gravatal,8.166666666666666,bir
+1434,groairas,17.0,dört
+1435,grupiara,21.0,beş
+1436,guabiju,19.0,beş
+1437,guabiruba,19.0,beş
+1438,guacui,17.266666666666666,beş
+1439,guadalupe,13.0,üç
+1440,guaiba,14.5,dört
+1441,guaicara,9.375,bir
+1442,guaira,10.525,iki
+1443,guairaca,9.0,bir
+1444,guaiuba,19.0,beş
+1445,guajara-mirim,14.0,üç
+1446,guamare,17.0,dört
+1447,guamiranga,8.0,bir
+1448,guanambi,20.742857142857144,beş
+1449,guanhaes,12.11111111111111,iki
+1450,guape,20.0,beş
+1451,guapiacu,10.333333333333334,iki
+1452,guapiara,5.5,bir
+1453,guapimirim,12.238095238095237,üç
+1454,guapirama,10.0,bir
+1455,guapo,13.166666666666666,üç
+1456,guapore,15.9375,dört
+1457,guara,9.666666666666666,bir
+1458,guarabira,26.11111111111111,altı
+1459,guaracai,13.0,üç
+1460,guaraci,10.5,iki
+1461,guaraciaba,7.333333333333333,bir
+1462,guaraciaba do norte,17.25,beş
+1463,guarai,14.666666666666666,dört
+1464,guaramirim,12.583333333333334,üç
+1465,guaranesia,14.333333333333334,üç
+1466,guarani,17.333333333333332,beş
+1467,guarani das missoes,9.0,bir
+1468,guaraniacu,11.8,iki
+1469,guaranta,13.0,üç
+1470,guaranta do norte,14.2,üç
+1471,guarapari,14.37704918032787,dört
+1472,guarapua,6.0,bir
+1473,guarapuava,12.741379310344827,üç
+1474,guaraquecaba,9.0,bir
+1475,guarara,11.0,iki
+1476,guararapes,11.058823529411764,iki
+1477,guararema,9.363636363636363,bir
+1478,guaratinga,15.5,dört
+1479,guaratingueta,11.835164835164836,iki
+1480,guaratuba,10.125,iki
+1481,guarda-mor,8.0,bir
+1482,guarei,9.0,bir
+1483,guariba,12.642857142857142,üç
+1484,guariroba,8.5,bir
+1485,guaruja,8.57920792079208,bir
+1486,guaruja do sul,18.25,beş
+1487,guarulhos,7.968489341983318,bir
+1488,guassusse,11.0,iki
+1489,guatapara,9.0,bir
+1490,guaxupe,12.878787878787879,üç
+1491,guia lopes da laguna,12.0,iki
+1492,guidoval,19.0,beş
+1493,guimaraes,17.0,dört
+1494,guimarania,11.0,iki
+1495,guiricema,11.0,iki
+1496,gurupi,14.619047619047619,dört
+1497,guzolandia,10.0,bir
+1498,heliopolis,18.0,beş
+1499,herculandia,9.0,bir
+1500,herval,7.0,bir
+1501,herval d'oeste,13.25,üç
+1502,herveiras,8.0,bir
+1503,hidreletrica tucurui,17.0,dört
+1504,hidrolandia,15.375,dört
+1505,hidrolina,27.0,altı
+1506,holambra,8.277777777777779,bir
+1507,holambra ii,17.75,beş
+1508,horizonte,27.8,altı
+1509,horizontina,15.166666666666666,dört
+1510,hortolandia,11.941176470588236,iki
+1511,hulha negra,29.0,altı
+1512,humaita,18.25,beş
+1513,humberto de campos,20.0,beş
+1514,iacanga,10.166666666666666,iki
+1515,iaciara,11.0,iki
+1516,iacri,14.0,üç
+1517,iacu,24.5,altı
+1518,iapu,22.25,altı
+1519,iaras,8.0,bir
+1520,iati,21.0,beş
+1521,ibaiti,10.909090909090908,iki
+1522,ibarama,15.0,dört
+1523,ibate,10.090909090909092,iki
+1524,ibateguara,15.5,dört
+1525,ibatiba,17.333333333333332,beş
+1526,ibertioga,17.0,dört
+1527,ibia,16.428571428571427,dört
+1528,ibiaca,14.0,üç
+1529,ibiai,9.0,bir
+1530,ibiajara,28.0,altı
+1531,ibiam,16.0,dört
+1532,ibiapina,19.0,beş
+1533,ibiara,17.0,dört
+1534,ibiassuce,12.0,iki
+1535,ibicarai,18.4,beş
+1536,ibicare,15.5,dört
+1537,ibicoara,17.0,dört
+1538,ibicuitinga,22.0,altı
+1539,ibimirim,23.333333333333332,altı
+1540,ibipeba,15.0,dört
+1541,ibipitanga,13.0,üç
+1542,ibipora,10.636363636363637,iki
+1543,ibira,6.833333333333333,bir
+1544,ibiracatu,12.0,iki
+1545,ibiraci,10.0,bir
+1546,ibiracu,18.0,beş
+1547,ibiraiaras,10.0,bir
+1548,ibiraja,37.0,altı
+1549,ibirama,15.2,dört
+1550,ibirapua,14.0,üç
+1551,ibirarema,8.6,bir
+1552,ibirataia,11.5,iki
+1553,ibirite,10.48936170212766,iki
+1554,ibiruba,13.277777777777779,üç
+1555,ibitiara,12.0,iki
+1556,ibitinga,9.714285714285714,bir
+1557,ibitira,23.0,altı
+1558,ibitita,17.0,dört
+1559,ibitiuva,7.0,bir
+1560,ibiuna,10.37037037037037,iki
+1561,ibotirama,12.142857142857142,iki
+1562,icapui,22.4,altı
+1563,icara,12.631578947368421,üç
+1564,icarai de minas,10.5,iki
+1565,icaraima,11.0,iki
+1566,icatu,17.0,dört
+1567,icem,7.5,bir
+1568,ichu,20.5,beş
+1569,ico,26.75,altı
+1570,iconha,15.2,dört
+1571,ielmo marinho,27.0,altı
+1572,iepe,11.6,iki
+1573,igaci,38.5,altı
+1574,igapora,36.0,altı
+1575,igaracu do tiete,6.0,bir
+1576,igarapava,13.714285714285714,üç
+1577,igarape,13.666666666666666,üç
+1578,igarape-acu,17.0,dört
+1579,igarape-miri,29.0,altı
+1580,igarassu,21.272727272727273,altı
+1581,igarata,12.4,üç
+1582,igaratinga,9.0,bir
+1583,igrapiuna,25.0,altı
+1584,igreja nova,28.0,altı
+1585,igrejinha,14.466666666666667,dört
+1586,iguaba grande,19.0,beş
+1587,iguai,14.5,dört
+1588,iguape,11.142857142857142,iki
+1589,iguaracu,12.0,iki
+1590,iguatama,7.0,bir
+1591,iguatu,22.4,altı
+1592,ijui,15.173913043478262,dört
+1593,ilha comprida,6.666666666666667,bir
+1594,ilha de itamaraca,26.5,altı
+1595,ilha dos valadares,28.0,altı
+1596,ilha grande,14.0,üç
+1597,ilha solteira,10.0,bir
+1598,ilhabela,11.547619047619047,iki
+1599,ilheus,20.646153846153847,beş
+1600,ilhota,14.75,dört
+1601,ilicinea,16.0,dört
+1602,ilopolis,11.666666666666666,iki
+1603,imaculada,40.333333333333336,altı
+1604,imbau,8.0,bir
+1605,imbe,16.9,dört
+1606,imbe de minas,17.0,dört
+1607,imbituba,16.6,dört
+1608,imbituva,12.5,üç
+1609,imbuia,15.666666666666666,dört
+1610,imigrante,10.333333333333334,iki
+1611,imperatriz,21.486486486486488,altı
+1612,inacio martins,16.2,dört
+1613,inaciolandia,22.666666666666668,altı
+1614,inaja,11.75,iki
+1615,inconfidentes,14.0,üç
+1616,indaial,13.12,üç
+1617,indaiatuba,8.306772908366534,bir
+1618,independencia,20.0,beş
+1619,indiana,7.0,bir
+1620,indianopolis,14.2,üç
+1621,indiapora,8.666666666666666,bir
+1622,indiara,17.666666666666668,beş
+1623,indiaroba,40.0,altı
+1624,inga,14.0,üç
+1625,ingai,30.0,altı
+1626,inhambupe,31.857142857142858,altı
+1627,inhapi,25.0,altı
+1628,inhapim,11.0,iki
+1629,inhauma,8.0,bir
+1630,inhuma,35.0,altı
+1631,inhumas,17.133333333333333,beş
+1632,inimutaba,7.5,bir
+1633,inocencia,16.0,dört
+1634,inubia paulista,5.333333333333333,bir
+1635,iomere,3.0,bir
+1636,ipaba,14.5,dört
+1637,ipameri,13.7,üç
+1638,ipanema,12.714285714285714,üç
+1639,ipaporanga,32.5,altı
+1640,ipatinga,12.045751633986928,iki
+1641,ipaumirim,23.0,altı
+1642,ipaussu,9.8,bir
+1643,ipe,19.0,beş
+1644,ipecaeta,30.0,altı
+1645,ipero,10.0,bir
+1646,ipiabas,20.25,beş
+1647,ipiacu,11.0,iki
+1648,ipiau,10.833333333333334,iki
+1649,ipigua,12.5,üç
+1650,ipira,14.857142857142858,dört
+1651,ipiranga,10.666666666666666,iki
+1652,ipiranga de goias,16.0,dört
+1653,ipiranga do norte,15.0,dört
+1654,ipiranga do sul,14.0,üç
+1655,ipixuna do para,15.5,dört
+1656,ipojuca,22.0,altı
+1657,ipora,12.3125,üç
+1658,ipora do oeste,16.666666666666668,dört
+1659,ipu,21.25,altı
+1660,ipua,17.333333333333332,beş
+1661,ipubi,10.0,bir
+1662,ipueira,32.0,altı
+1663,ipueiras,13.0,üç
+1664,ipuiuna,36.0,altı
+1665,ipumirim,14.2,üç
+1666,ipupiara,24.0,altı
+1667,iracema,42.0,altı
+1668,iracemapolis,9.944444444444445,bir
+1669,irai,15.0,dört
+1670,irai de minas,5.5,bir
+1671,iramaia,22.5,altı
+1672,irani,13.0,üç
+1673,irape,10.5,iki
+1674,irapua,6.0,bir
+1675,irapuru,8.666666666666666,bir
+1676,iraquara,20.4,beş
+1677,irara,19.5,beş
+1678,irati,12.181818181818182,iki
+1679,iraucuba,15.5,dört
+1680,irece,17.0,dört
+1681,iretama,23.0,altı
+1682,irineopolis,12.0,iki
+1683,irupi,10.5,iki
+1684,isaias coelho,10.0,bir
+1685,ita,12.0,iki
+1686,itaara,31.0,altı
+1687,itabaiana,19.384615384615383,beş
+1688,itabaianinha,25.0,altı
+1689,itabatan,20.0,beş
+1690,itabela,19.25,beş
+1691,itabera,12.166666666666666,iki
+1692,itaberaba,17.555555555555557,beş
+1693,itaberai,14.0,üç
+1694,itabira,12.927536231884059,üç
+1695,itabirinha,7.0,bir
+1696,itabirito,11.24,iki
+1697,itaborai,18.754716981132077,beş
+1698,itabuna,18.642857142857142,beş
+1699,itacarambi,10.666666666666666,iki
+1700,itacare,30.714285714285715,altı
+1701,itagi,17.5,beş
+1702,itagiba,25.0,altı
+1703,itagimirim,10.0,bir
+1704,itaguacu,15.375,dört
+1705,itaguacu da bahia,22.0,altı
+1706,itaguai,11.826086956521738,iki
+1707,itaguaje,12.0,iki
+1708,itaguara,8.5,bir
+1709,itaguari,20.0,beş
+1710,itaguaru,13.5,üç
+1711,itai,10.222222222222221,iki
+1712,itaicaba,21.0,beş
+1713,itaiopolis,19.25,beş
+1714,itaipava,14.333333333333334,üç
+1715,itaipulandia,15.333333333333334,dört
+1716,itaitinga,19.666666666666668,beş
+1717,itaituba,34.333333333333336,altı
+1718,itaja,13.0,üç
+1719,itajai,14.491379310344827,dört
+1720,itajobi,14.125,üç
+1721,itaju,14.0,üç
+1722,itaju do colonia,19.0,beş
+1723,itajuba,11.36046511627907,iki
+1724,itajuipe,14.5,dört
+1725,italva,11.916666666666666,iki
+1726,itamaraju,17.3,beş
+1727,itamarandiba,8.333333333333334,bir
+1728,itamari,21.333333333333332,altı
+1729,itambacuri,11.333333333333334,iki
+1730,itambaraca,13.5,üç
+1731,itambe,21.714285714285715,altı
+1732,itamira,15.0,dört
+1733,itamogi,17.5,beş
+1734,itamonte,13.777777777777779,üç
+1735,itanhaem,10.716417910447761,iki
+1736,itanhandu,12.333333333333334,üç
+1737,itanhanga,25.0,altı
+1738,itanhem,14.0,üç
+1739,itanhomi,11.0,iki
+1740,itaobim,11.2,iki
+1741,itaoca,20.333333333333332,beş
+1742,itaocara,14.214285714285714,üç
+1743,itapaci,22.0,altı
+1744,itapage,18.0,beş
+1745,itapagipe,9.2,bir
+1746,itapaje,21.0,beş
+1747,itaparica,15.0,dört
+1748,itape,13.0,üç
+1749,itapecerica,9.461538461538462,bir
+1750,itapecerica da serra,10.136363636363637,iki
+1751,itapecuru mirim,15.0,dört
+1752,itapejara d'oeste,15.8,dört
+1753,itapema,12.292682926829269,üç
+1754,itapemirim,15.0,dört
+1755,itaperucu,12.0,iki
+1756,itaperuna,18.463414634146343,beş
+1757,itapetim,26.0,altı
+1758,itapetinga,17.125,beş
+1759,itapetininga,9.507246376811594,bir
+1760,itapeva,8.433962264150944,bir
+1761,itapevi,8.031055900621118,bir
+1762,itapicuru,29.0,altı
+1763,itapipoca,26.444444444444443,altı
+1764,itapira,11.0,iki
+1765,itapiranga,13.272727272727273,üç
+1766,itapirapua,15.5,dört
+1767,itapirapua paulista,9.5,bir
+1768,itapissuma,19.333333333333332,beş
+1769,itapitanga,15.0,dört
+1770,itapiuna,16.0,dört
+1771,itapoa,15.142857142857142,dört
+1772,itapolis,13.11111111111111,üç
+1773,itapora,13.333333333333334,üç
+1774,itaporanga,15.75,dört
+1775,itaporanga d'ajuda,49.0,altı
+1776,itapui,12.714285714285714,üç
+1777,itapura,8.166666666666666,bir
+1778,itapuranga,17.0,dört
+1779,itaquaquecetuba,9.024390243902438,bir
+1780,itaqui,15.666666666666666,dört
+1781,itaquirai,24.5,altı
+1782,itaquitinga,18.5,beş
+1783,itarana,23.0,altı
+1784,itarantim,17.666666666666668,beş
+1785,itarare,9.916666666666666,bir
+1786,itarema,19.0,beş
+1787,itariri,17.4,beş
+1788,itatiaia,18.055555555555557,beş
+1789,itatiaiucu,27.0,altı
+1790,itatiba,7.967032967032967,bir
+1791,itatiba do sul,18.0,beş
+1792,itatim,16.5,dört
+1793,itatinga,11.75,iki
+1794,itau,18.5,beş
+1795,itau de minas,13.2,üç
+1796,itauba,17.2,beş
+1797,itaueira,14.5,dört
+1798,itauna,11.528301886792454,iki
+1799,itinga,14.666666666666666,dört
+1800,itiquira,12.0,iki
+1801,itirapina,16.5,dört
+1802,itirucu,26.333333333333332,altı
+1803,itiuba,20.0,beş
+1804,itobi,7.857142857142857,bir
+1805,itororo,38.0,altı
+1806,itu,8.487394957983193,bir
+1807,ituacu,14.333333333333334,üç
+1808,itubera,10.666666666666666,iki
+1809,itueta,22.0,altı
+1810,ituiutaba,12.446808510638299,üç
+1811,itumbiara,12.5625,üç
+1812,itupeva,11.777777777777779,iki
+1813,itupiranga,20.0,beş
+1814,ituporanga,12.8,üç
+1815,iturama,16.545454545454547,dört
+1816,itutinga,8.0,bir
+1817,ituverava,9.296296296296296,bir
+1818,iuna,18.0,beş
+1819,ivai,13.0,üç
+1820,ivaipora,11.0,iki
+1821,ivate,10.0,bir
+1822,ivinhema,14.666666666666666,dört
+1823,ivora,13.0,üç
+1824,ivoti,13.076923076923077,üç
+1825,jaboatao dos guararapes,15.65625,dört
+1826,jabora,21.0,beş
+1827,jaborandi,5.0,bir
+1828,jaboti,8.5,bir
+1829,jaboticabal,10.395833333333334,iki
+1830,jacaraci,25.25,altı
+1831,jacare,11.142857142857142,iki
+1832,jacareacanga,52.0,altı
+1833,jacarei,8.766304347826088,bir
+1834,jacarezinho,11.0,iki
+1835,jaci,9.0,bir
+1836,jaciara,20.333333333333332,beş
+1837,jacigua,26.0,altı
+1838,jacinto,16.0,dört
+1839,jacinto machado,13.0,üç
+1840,jacobina,17.217391304347824,beş
+1841,jacui,11.75,iki
+1842,jacuizinho,20.0,beş
+1843,jacunda,19.8,beş
+1844,jacupiranga,9.4,bir
+1845,jacutinga,13.833333333333334,üç
+1846,jaguaquara,17.0,dört
+1847,jaguaracu,13.0,üç
+1848,jaguarao,14.75,dört
+1849,jaguare,13.307692307692308,üç
+1850,jaguari,12.333333333333334,üç
+1851,jaguariaiva,9.75,bir
+1852,jaguaribara,20.0,beş
+1853,jaguaribe,20.2,beş
+1854,jaguariuna,8.04,bir
+1855,jaguaruana,21.5,altı
+1856,jaguaruna,11.0,iki
+1857,jaiba,14.166666666666666,üç
+1858,jales,8.0,bir
+1859,jamaica,14.0,üç
+1860,jamapara,10.0,bir
+1861,jambeiro,12.333333333333334,üç
+1862,jampruca,8.0,bir
+1863,janauba,11.692307692307692,iki
+1864,jandaia,10.0,bir
+1865,jandaia do sul,10.166666666666666,iki
+1866,jandaira,14.5,dört
+1867,jandira,8.025,bir
+1868,janduis,42.0,altı
+1869,janiopolis,14.666666666666666,dört
+1870,januaria,16.5,dört
+1871,japaraiba,7.0,bir
+1872,japaratuba,20.0,beş
+1873,japeri,15.774193548387096,dört
+1874,japi,45.0,altı
+1875,japira,13.0,üç
+1876,japoata,26.0,altı
+1877,japuiba,20.0,beş
+1878,japura,18.8,beş
+1879,jaqueira,14.0,üç
+1880,jaragua,15.571428571428571,dört
+1881,jaragua do sul,13.246913580246913,üç
+1882,jaraguari,13.0,üç
+1883,jardim,12.0,iki
+1884,jardim abc de goias,9.0,bir
+1885,jardim alegre,12.5,üç
+1886,jardim de piranhas,15.0,dört
+1887,jardim do serido,21.333333333333332,altı
+1888,jardim olinda,12.0,iki
+1889,jardinopolis,9.923076923076923,bir
+1890,jari,12.75,üç
+1891,jarinu,10.166666666666666,iki
+1892,jaru,16.2,dört
+1893,jatai,16.62,dört
+1894,jatauba,28.0,altı
+1895,jatoba,22.75,altı
+1896,jau,8.376811594202898,bir
+1897,jaupaci,14.0,üç
+1898,jauru,17.4,beş
+1899,jeceaba,13.666666666666666,üç
+1900,jenipapo de minas,7.0,bir
+1901,jequeri,32.0,altı
+1902,jequia da praia,17.0,dört
+1903,jequie,20.93548387096774,beş
+1904,jequitai,17.0,dört
+1905,jequitiba,9.0,bir
+1906,jequitinhonha,11.818181818181818,iki
+1907,jeremoabo,24.166666666666668,altı
+1908,jerico,17.0,dört
+1909,jeriquara,14.0,üç
+1910,jeronimo monteiro,15.5,dört
+1911,jesuania,10.75,iki
+1912,jesuitas,14.333333333333334,üç
+1913,jesupolis,8.0,bir
+1914,ji-parana,18.647058823529413,beş
+1915,jijoca de jericoacoara,15.0,dört
+1916,jiquirica,47.0,altı
+1917,joacaba,18.423076923076923,beş
+1918,joaima,13.0,üç
+1919,joanopolis,12.5,üç
+1920,joao alfredo,20.666666666666668,beş
+1921,joao camara,20.0,beş
+1922,joao dourado,16.0,dört
+1923,joao lisboa,13.4,üç
+1924,joao monlevade,10.956521739130435,iki
+1925,joao neiva,11.333333333333334,iki
+1926,joao pessoa,20.310043668122272,beş
+1927,joao pinheiro,12.666666666666666,üç
+1928,joao ramalho,10.0,bir
+1929,joaquim nabuco,30.0,altı
+1930,joaquim pires,27.0,altı
+1931,joaquim tavora,8.0,bir
+1932,joinville,15.348547717842324,dört
+1933,jordania,10.0,bir
+1934,jose boiteux,18.0,beş
+1935,jose bonifacio,9.666666666666666,bir
+1936,jose da penha,18.0,beş
+1937,jose de freitas,13.0,üç
+1938,joselandia,45.0,altı
+1939,joviania,17.2,beş
+1940,juara,19.75,beş
+1941,juatuba,14.0,üç
+1942,juazeiro,24.05128205128205,altı
+1943,juazeiro do norte,20.0,beş
+1944,jucas,34.0,altı
+1945,jucurucu,14.0,üç
+1946,jucurutu,19.0,beş
+1947,juina,16.6875,dört
+1948,juiz de fora,12.197007481296758,üç
+1949,julio de castilhos,14.11111111111111,üç
+1950,julio mesquita,19.0,beş
+1951,jumirim,15.0,dört
+1952,junco do serido,16.0,dört
+1953,jundiai,9.031620553359684,bir
+1954,jundiai do sul,16.333333333333332,dört
+1955,junqueiro,15.5,dört
+1956,junqueiropolis,10.416666666666666,iki
+1957,jupi,11.0,iki
+1958,juquia,8.5,bir
+1959,juquitiba,7.2631578947368425,bir
+1960,juranda,26.0,altı
+1961,jurema,18.0,beş
+1962,juripiranga,19.0,beş
+1963,juru,13.0,üç
+1964,juruaia,14.166666666666666,üç
+1965,juruena,14.333333333333334,üç
+1966,juruti,28.0,altı
+1967,juscimeira,25.0,altı
+1968,jussara,11.75,iki
+1969,jussari,14.5,dört
+1970,jussiape,7.0,bir
+1971,juti,11.0,iki
+1972,juvenilia,4.0,bir
+1973,kalore,14.5,dört
+1974,ladainha,8.5,bir
+1975,ladario,16.0,dört
+1976,lagarto,36.18181818181818,altı
+1977,lages,13.519480519480519,üç
+1978,lago da pedra,27.0,altı
+1979,lago verde,22.0,altı
+1980,lagoa,45.0,altı
+1981,lagoa d'anta,20.0,beş
+1982,lagoa da canoa,46.0,altı
+1983,lagoa da confusao,21.75,altı
+1984,lagoa da prata,11.8,iki
+1985,lagoa de sao francisco,14.0,üç
+1986,lagoa de velhos,19.0,beş
+1987,lagoa do carro,13.5,üç
+1988,lagoa do mato,31.0,altı
+1989,lagoa do ouro,14.5,dört
+1990,lagoa do piaui,23.0,altı
+1991,lagoa dos gatos,11.0,iki
+1992,lagoa dos patos,9.0,bir
+1993,lagoa dos tres cantos,16.0,dört
+1994,lagoa dourada,15.4,dört
+1995,lagoa formosa,10.428571428571429,iki
+1996,lagoa grande,13.5,üç
+1997,lagoa nova,22.0,altı
+1998,lagoa real,13.0,üç
+1999,lagoa salgada,35.0,altı
+2000,lagoa santa,10.581818181818182,iki
+2001,lagoa vermelha,13.076923076923077,üç
+2002,lagoao,8.0,bir
+2003,lagoinha,13.0,üç
+2004,lagoinha do piaui,23.0,altı
+2005,laguna,17.666666666666668,beş
+2006,laje do muriae,15.0,dört
+2007,lajeado,15.395833333333334,dört
+2008,lajeado grande,23.0,altı
+2009,lajedo,14.833333333333334,dört
+2010,lajinha,10.0,bir
+2011,lamarao,10.0,bir
+2012,lambari,11.875,iki
+2013,lamim,15.0,dört
+2014,lapa,12.923076923076923,üç
+2015,laranja da terra,19.0,beş
+2016,laranjal,14.5,dört
+2017,laranjal do jari,26.5,altı
+2018,laranjal paulista,12.5,üç
+2019,laranjeiras do sul,11.68421052631579,iki
+2020,laurentino,18.2,beş
+2021,lauro de freitas,17.338461538461537,beş
+2022,lauro muller,17.875,beş
+2023,lavinia,8.25,bir
+2024,lavras,16.223684210526315,dört
+2025,lavras da mangabeira,12.5,üç
+2026,lavras do sul,11.0,iki
+2027,lavrinhas,12.0,iki
+2028,leandro ferreira,12.0,iki
+2029,leme,11.127659574468085,iki
+2030,lencois,12.0,iki
+2031,lencois paulista,8.86046511627907,bir
+2032,leoberto leal,34.0,altı
+2033,leopoldina,11.9375,iki
+2034,leopoldo de bulhoes,18.0,beş
+2035,leopolis,15.0,dört
+2036,liberato salzano,12.0,iki
+2037,liberdade,9.0,bir
+2038,lima duarte,13.833333333333334,üç
+2039,limeira,8.220930232558139,bir
+2040,limeira do oeste,43.0,altı
+2041,limoeiro,22.0,altı
+2042,limoeiro do norte,19.181818181818183,beş
+2043,lindoeste,15.0,dört
+2044,lindoia,9.625,bir
+2045,lindolfo collor,10.0,bir
+2046,linhares,13.719298245614034,üç
+2047,lins,12.07843137254902,iki
+2048,livramento de nossa senhora,14.6,dört
+2049,loanda,10.727272727272727,iki
+2050,lobato,19.666666666666668,beş
+2051,londrina,11.118881118881118,iki
+2052,lontras,15.333333333333334,dört
+2053,lorena,10.946666666666667,iki
+2054,loreto,18.0,beş
+2055,lourdes,15.0,dört
+2056,louveira,11.904761904761905,iki
+2057,lucas do rio verde,19.714285714285715,beş
+2058,lucelia,11.545454545454545,iki
+2059,lucena,36.0,altı
+2060,lucianopolis,12.0,iki
+2061,luis antonio,8.666666666666666,bir
+2062,luis correia,20.0,beş
+2063,luis eduardo magalhaes,20.78125,beş
+2064,luisburgo,14.0,üç
+2065,luiz alves,11.5,iki
+2066,luiziana,10.5,iki
+2067,luiziania,6.333333333333333,bir
+2068,luizlandia do oeste,17.5,beş
+2069,luminarias,15.333333333333334,dört
+2070,lunardelli,17.0,dört
+2071,lupercio,9.0,bir
+2072,lupionopolis,14.5,dört
+2073,lutecia,9.0,bir
+2074,luz,14.0,üç
+2075,luziania,12.923076923076923,üç
+2076,luzilandia,21.333333333333332,altı
+2077,macae,17.673076923076923,beş
+2078,macaiba,21.0,beş
+2079,macambara,17.5,beş
+2080,macambira,36.0,altı
+2081,macapa,24.729166666666668,altı
+2082,macaparana,10.0,bir
+2083,macatuba,11.1,iki
+2084,macau,21.4,altı
+2085,macaubas,29.285714285714285,altı
+2086,macedonia,9.5,bir
+2087,maceio,25.88157894736842,altı
+2088,machacalis,12.0,iki
+2089,machadinho,65.0,altı
+2090,machadinho d'oeste,24.666666666666668,altı
+2091,machado,11.3,iki
+2092,machados,14.0,üç
+2093,macieira,22.0,altı
+2094,macuco,13.0,üç
+2095,macuco de minas,16.0,dört
+2096,madalena,23.0,altı
+2097,madre de deus,18.0,beş
+2098,madre de deus de minas,16.0,dört
+2099,mae d'agua,13.0,üç
+2100,mae do rio,25.5,altı
+2101,mafra,12.8,üç
+2102,magalhaes de almeida,25.0,altı
+2103,magda,6.5,bir
+2104,mage,13.204081632653061,üç
+2105,maiquinique,16.0,dört
+2106,mairi,14.5,dört
+2107,mairinque,10.608695652173912,iki
+2108,mairipora,7.720588235294118,bir
+2109,major vieira,12.0,iki
+2110,malacacheta,14.6,dört
+2111,malhador,22.0,altı
+2112,mallet,12.0,iki
+2113,mamanguape,22.0,altı
+2114,mambai,11.5,iki
+2115,mambore,15.0,dört
+2116,mamonas,15.0,dört
+2117,manaira,16.0,dört
+2118,manaus,26.709923664122137,altı
+2119,mandaguacu,10.666666666666666,iki
+2120,mandaguari,14.266666666666667,üç
+2121,mandirituba,30.0,altı
+2122,manduri,8.0,bir
+2123,manfrinopolis,12.0,iki
+2124,manga,10.0,bir
+2125,mangaratiba,20.545454545454547,beş
+2126,mangueirinha,18.5,beş
+2127,manhuacu,11.583333333333334,iki
+2128,manhumirim,12.5,üç
+2129,manoel ribas,20.666666666666668,beş
+2130,manoel urbano,12.0,iki
+2131,manoel viana,16.666666666666668,dört
+2132,mansidao,12.0,iki
+2133,mantena,11.11111111111111,iki
+2134,mantenopolis,8.5,bir
+2135,maquine,15.0,dört
+2136,mar de espanha,11.0,iki
+2137,mar vermelho,13.0,üç
+2138,mara rosa,18.0,beş
+2139,maraba,25.761904761904763,altı
+2140,maracacume,20.5,beş
+2141,maracai,8.0,bir
+2142,maracaju,15.545454545454545,dört
+2143,maracana,13.5,üç
+2144,maracanau,21.24137931034483,altı
+2145,maracas,12.0,iki
+2146,maragogi,33.4,altı
+2147,maragogipe,17.5,beş
+2148,maranguape,18.666666666666668,beş
+2149,maranhaozinho,29.0,altı
+2150,marataizes,13.5,üç
+2151,marau,12.9,üç
+2152,maravilha,19.363636363636363,beş
+2153,maravilhas,8.0,bir
+2154,marcelino vieira,78.0,altı
+2155,marco,22.0,altı
+2156,marcos parente,11.0,iki
+2157,marechal candido rondon,15.03448275862069,dört
+2158,marechal deodoro,20.0,beş
+2159,marechal floriano,14.8,dört
+2160,mari,15.333333333333334,dört
+2161,maria da fe,10.666666666666666,iki
+2162,marialva,13.733333333333333,üç
+2163,mariana,12.090909090909092,iki
+2164,mariano moro,6.0,bir
+2165,mariapolis,11.0,iki
+2166,maribondo,17.0,dört
+2167,marica,16.661290322580644,dört
+2168,mariental,20.0,beş
+2169,marilandia,15.75,dört
+2170,marilandia do sul,12.0,iki
+2171,marilena,13.0,üç
+2172,marilia,9.740540540540541,bir
+2173,mariluz,12.5,üç
+2174,maringa,12.176470588235293,iki
+2175,marinopolis,6.5,bir
+2176,mario campos,6.5,bir
+2177,mariopolis,11.0,iki
+2178,maripa,16.333333333333332,dört
+2179,maristela,17.666666666666668,beş
+2180,marituba,25.571428571428573,altı
+2181,marmeleiro,24.714285714285715,altı
+2182,marques de souza,29.0,altı
+2183,martinesia,10.0,bir
+2184,martinho campos,7.5,bir
+2185,martinopolis,10.285714285714286,iki
+2186,martins,14.5,dört
+2187,martins soares,11.666666666666666,iki
+2188,mascote,24.0,altı
+2189,massape,18.0,beş
+2190,massaranduba,8.0,bir
+2191,mata,9.0,bir
+2192,mata de sao joao,21.9,altı
+2193,mata grande,30.0,altı
+2194,mata roma,20.5,beş
+2195,mata verde,10.25,iki
+2196,matao,9.854166666666666,bir
+2197,matelandia,11.0,iki
+2198,materlandia,10.5,iki
+2199,mateus leme,12.75,üç
+2200,matias barbosa,16.363636363636363,dört
+2201,matinhos,11.88888888888889,iki
+2202,matipo,9.5,bir
+2203,mato leitao,13.5,üç
+2204,mato rico,13.0,üç
+2205,mato verde,7.0,bir
+2206,matoes,15.0,dört
+2207,matoes do norte,42.5,altı
+2208,matozinhos,9.181818181818182,bir
+2209,matrincha,16.0,dört
+2210,matriz de camaragibe,12.0,iki
+2211,matupa,12.5,üç
+2212,matutina,6.5,bir
+2213,maua,8.71947194719472,bir
+2214,maua da serra,10.5,iki
+2215,maurilandia,13.5,üç
+2216,mauriti,25.0,altı
+2217,maximiliano de almeida,10.333333333333334,iki
+2218,medeiros,12.0,iki
+2219,medeiros neto,16.0,dört
+2220,medianeira,14.578947368421053,dört
+2221,medicilandia,36.0,altı
+2222,medina,16.2,dört
+2223,meleiro,15.0,dört
+2224,mendes,8.727272727272727,bir
+2225,mendes pimentel,9.4,bir
+2226,mendonca,15.4,dört
+2227,mercedes,38.0,altı
+2228,merces,19.5,beş
+2229,meridiano,5.0,bir
+2230,meruoca,21.5,altı
+2231,mesquita,14.166666666666666,üç
+2232,messias targino,15.0,dört
+2233,miguel calmon,45.6,altı
+2234,miguel pereira,14.692307692307692,dört
+2235,miguelopolis,9.5,bir
+2236,milagres,13.5,üç
+2237,milha,14.0,üç
+2238,mimoso de goias,8.0,bir
+2239,mimoso do sul,14.125,üç
+2240,minacu,13.7,üç
+2241,minas do leao,12.0,iki
+2242,minas novas,10.333333333333334,iki
+2243,minduri,6.0,bir
+2244,mineiros,13.0,üç
+2245,mineiros do tiete,8.0,bir
+2246,ministro andreazza,17.0,dört
+2247,mira estrela,11.0,iki
+2248,miracatu,10.0,bir
+2249,miracema,14.235294117647058,üç
+2250,miradouro,12.0,iki
+2251,miraguai,5.0,bir
+2252,mirai,11.625,iki
+2253,miraima,26.0,altı
+2254,miranda,11.25,iki
+2255,miranda do norte,17.0,dört
+2256,mirandiba,10.666666666666666,iki
+2257,mirandopolis,10.727272727272727,iki
+2258,miranorte,27.5,altı
+2259,mirante da serra,17.0,dört
+2260,mirante do paranapanema,11.333333333333334,iki
+2261,mirassol,9.785714285714286,bir
+2262,mirassol d'oeste,16.428571428571427,dört
+2263,miravania,13.0,üç
+2264,mirinzal,19.333333333333332,beş
+2265,missal,19.0,beş
+2266,missao velha,24.0,altı
+2267,mocajuba,31.0,altı
+2268,mococa,9.5,bir
+2269,moeda,6.0,bir
+2270,moema,11.0,iki
+2271,mogi das cruzes,7.720588235294118,bir
+2272,mogi mirim,7.774647887323944,bir
+2273,mogi-guacu,9.825581395348838,bir
+2274,mogi-mirim,6.0,bir
+2275,moju,25.75,altı
+2276,mojui dos campos,28.0,altı
+2277,mombaca,18.0,beş
+2278,mombuca,17.0,dört
+2279,moncao,13.0,üç
+2280,moncoes,10.5,iki
+2281,mondai,11.5,iki
+2282,mongagua,11.026315789473685,iki
+2283,monsenhor paulo,9.0,bir
+2284,monsenhor tabosa,20.666666666666668,beş
+2285,montadas,36.0,altı
+2286,montalvania,14.5,dört
+2287,montanha,36.125,altı
+2288,montanhas,13.0,üç
+2289,montauri,13.0,üç
+2290,monte alegre,18.0,beş
+2291,monte alegre de minas,7.5,bir
+2292,monte alegre de sergipe,20.0,beş
+2293,monte alegre do sul,7.5,bir
+2294,monte alto,10.0,bir
+2295,monte alverne,12.0,iki
+2296,monte aprazivel,10.0,bir
+2297,monte azul,14.6,dört
+2298,monte azul paulista,10.823529411764707,iki
+2299,monte belo,11.75,iki
+2300,monte belo do sul,11.0,iki
+2301,monte bonito,31.0,altı
+2302,monte carlo,11.333333333333334,iki
+2303,monte carmelo,9.173913043478262,bir
+2304,monte castelo,8.5,bir
+2305,monte formoso,9.5,bir
+2306,monte gordo,37.0,altı
+2307,monte mor,11.444444444444445,iki
+2308,monte santo,27.0,altı
+2309,monte santo de minas,14.222222222222221,üç
+2310,monte siao,12.789473684210526,üç
+2311,monte verde,31.666666666666668,altı
+2312,monteiropolis,35.0,altı
+2313,montenegro,12.666666666666666,üç
+2314,montes claros,10.94300518134715,iki
+2315,montezuma,17.0,dört
+2316,montividiu do norte,18.0,beş
+2317,morada nova,18.3,beş
+2318,morada nova de minas,12.666666666666666,üç
+2319,moreilandia,18.0,beş
+2320,moreira sales,10.666666666666666,iki
+2321,moreno,14.2,üç
+2322,morpara,11.0,iki
+2323,morretes,13.0,üç
+2324,morrinhos,19.866666666666667,beş
+2325,morro agudo,8.125,bir
+2326,morro agudo de goias,19.0,beş
+2327,morro da fumaca,11.0,iki
+2328,morro da garca,15.0,dört
+2329,morro de sao paulo,24.0,altı
+2330,morro do chapeu,16.833333333333332,dört
+2331,morro do ferro,12.0,iki
+2332,morro do pilar,13.0,üç
+2333,morro redondo,14.0,üç
+2334,morro reuter,13.0,üç
+2335,morro vermelho,15.0,dört
+2336,morungaba,10.142857142857142,iki
+2337,mossamedes,13.0,üç
+2338,mossoro,20.625,beş
+2339,mostardas,15.0,dört
+2340,motuca,9.5,bir
+2341,mozarlandia,15.285714285714286,dört
+2342,mucambo,16.0,dört
+2343,mucuge,10.0,bir
+2344,mucuri,19.142857142857142,beş
+2345,mundo novo,12.0,iki
+2346,munhoz,12.0,iki
+2347,munhoz de melo,16.5,dört
+2348,muniz freire,10.0,bir
+2349,muquem do sao francisco,17.0,dört
+2350,muqui,17.666666666666668,beş
+2351,muriae,11.466666666666667,iki
+2352,murici,14.0,üç
+2353,muritiba,8.0,bir
+2354,murucupi,25.0,altı
+2355,murutinga do sul,9.0,bir
+2356,mussurepe,39.0,altı
+2357,mutuipe,17.75,beş
+2358,mutum,12.0,iki
+2359,mutum parana,26.0,altı
+2360,mutunopolis,21.0,beş
+2361,muzambinho,13.555555555555555,üç
+2362,nacip raydan,16.0,dört
+2363,nantes,5.0,bir
+2364,nanuque,15.52,dört
+2365,nao-me-toque,20.0,beş
+2366,narandiba,11.0,iki
+2367,natal,18.15463917525773,beş
+2368,natercia,13.0,üç
+2369,natividade,15.2,dört
+2370,natividade da serra,15.0,dört
+2371,navegantes,13.064516129032258,üç
+2372,navirai,20.25,beş
+2373,nazare,13.333333333333334,üç
+2374,nazare da mata,16.0,dört
+2375,nazare paulista,9.428571428571429,bir
+2376,nazareno,6.5,bir
+2377,nazario,15.5,dört
+2378,neopolis,20.0,beş
+2379,nepomuceno,13.285714285714286,üç
+2380,neropolis,13.6,üç
+2381,neves paulista,9.333333333333334,bir
+2382,nhandeara,12.0,iki
+2383,nilopolis,14.147368421052631,üç
+2384,nipoa,8.0,bir
+2385,niquelandia,14.583333333333334,dört
+2386,niteroi,14.722294654498045,dört
+2387,nobres,14.0,üç
+2388,nonoai,12.0,iki
+2389,nortelandia,16.0,dört
+2390,nossa senhora da gloria,23.5,altı
+2391,nossa senhora das dores,29.0,altı
+2392,nossa senhora das gracas,17.0,dört
+2393,nossa senhora de caravaggio,10.0,bir
+2394,nossa senhora de lourdes,19.0,beş
+2395,nossa senhora do o,9.0,bir
+2396,nossa senhora do socorro,24.714285714285715,altı
+2397,nova alvorada,12.333333333333334,üç
+2398,nova alvorada do sul,17.333333333333332,beş
+2399,nova america,16.0,dört
+2400,nova america da colina,11.0,iki
+2401,nova andradina,13.11111111111111,üç
+2402,nova araca,11.0,iki
+2403,nova aurora,11.25,iki
+2404,nova bandeirantes,19.25,beş
+2405,nova bassano,13.5,üç
+2406,nova boa vista,23.0,altı
+2407,nova brasilandia d'oeste,21.0,beş
+2408,nova campina,10.5,iki
+2409,nova canaa,26.5,altı
+2410,nova canaa do norte,10.5,iki
+2411,nova canaa paulista,7.5,bir
+2412,nova cantu,13.0,üç
+2413,nova crixas,14.0,üç
+2414,nova cruz,12.666666666666666,üç
+2415,nova era,10.785714285714286,iki
+2416,nova erechim,26.666666666666668,altı
+2417,nova esperanca,8.428571428571429,bir
+2418,nova esperanca do piria,18.0,beş
+2419,nova esperanca do sudoeste,13.0,üç
+2420,nova esperanca do sul,9.0,bir
+2421,nova europa,11.0,iki
+2422,nova fatima,15.6,dört
+2423,nova floresta,28.0,altı
+2424,nova friburgo,19.870229007633586,beş
+2425,nova granada,11.176470588235293,iki
+2426,nova guarita,16.0,dört
+2427,nova guataporanga,7.0,bir
+2428,nova hartz,20.0,beş
+2429,nova iguacu,13.848101265822784,üç
+2430,nova independencia,8.0,bir
+2431,nova itaberaba,19.5,beş
+2432,nova lacerda,22.0,altı
+2433,nova laranjeiras,8.0,bir
+2434,nova lima,12.290322580645162,üç
+2435,nova londrina,11.88888888888889,iki
+2436,nova luzitania,27.0,altı
+2437,nova mamore,22.5,altı
+2438,nova monte verde,13.0,üç
+2439,nova mutum,13.5,üç
+2440,nova odessa,9.085714285714285,bir
+2441,nova olimpia,22.0,altı
+2442,nova olinda,22.0,altı
+2443,nova olinda do maranhao,17.5,beş
+2444,nova padua,14.0,üç
+2445,nova palma,12.5,üç
+2446,nova petropolis,17.375,beş
+2447,nova ponte,13.625,üç
+2448,nova prata,10.6875,iki
+2449,nova prata do iguacu,14.5,dört
+2450,nova redencao,33.0,altı
+2451,nova resende,12.0,iki
+2452,nova roma,18.0,beş
+2453,nova roma do sul,9.0,bir
+2454,nova russas,20.857142857142858,beş
+2455,nova santa barbara,12.0,iki
+2456,nova santa rita,14.166666666666666,üç
+2457,nova santa rosa,8.0,bir
+2458,nova serrana,13.869565217391305,üç
+2459,nova soure,9.666666666666666,bir
+2460,nova timboteua,19.0,beş
+2461,nova trento,10.666666666666666,iki
+2462,nova ubirata,13.0,üç
+2463,nova venecia,13.052631578947368,üç
+2464,nova veneza,21.285714285714285,altı
+2465,nova vicosa,25.0,altı
+2466,nova xavantina,14.444444444444445,dört
+2467,novais,9.0,bir
+2468,novo alegre,20.0,beş
+2469,novo barreiro,12.0,iki
+2470,novo brasil,148.0,altı
+2471,novo cabrais,19.0,beş
+2472,novo cruzeiro,12.222222222222221,üç
+2473,novo gama,17.272727272727273,beş
+2474,novo hamburgo,14.688073394495413,dört
+2475,novo horizonte,10.625,iki
+2476,novo itacolomi,12.0,iki
+2477,novo jardim,21.0,beş
+2478,novo lino,15.0,dört
+2479,novo machado,12.0,iki
+2480,novo mundo,17.0,dört
+2481,novo oriente,16.0,dört
+2482,novo oriente do piaui,17.0,dört
+2483,novo planalto,12.0,iki
+2484,novo progresso,33.25,altı
+2485,novo repartimento,16.5,dört
+2486,novo sao joaquim,15.0,dört
+2487,nucleo residencial pilar,30.375,altı
+2488,nuporanga,9.666666666666666,bir
+2489,ocara,30.0,altı
+2490,ocaucu,10.4,iki
+2491,oeiras,14.4,dört
+2492,oeiras do para,22.0,altı
+2493,oiapoque,31.0,altı
+2494,olaria,10.0,bir
+2495,oleo,9.0,bir
+2496,olho d'agua das cunhas,15.5,dört
+2497,olho d'agua das flores,22.333333333333332,altı
+2498,olhos d'agua,22.0,altı
+2499,olimpia,10.36111111111111,iki
+2500,olinda,21.058139534883722,altı
+2501,olindina,20.0,beş
+2502,oliveira,12.181818181818182,iki
+2503,oliveira dos brejinhos,24.5,altı
+2504,onda verde,8.0,bir
+2505,oriente,8.0,bir
+2506,orindiuva,11.8,iki
+2507,orizania,14.0,üç
+2508,orizona,19.166666666666668,beş
+2509,orlandia,8.68,bir
+2510,orleans,10.25,iki
+2511,orobo,24.0,altı
+2512,oroco,24.666666666666668,altı
+2513,oros,16.0,dört
+2514,ortigueira,9.25,bir
+2515,osasco,7.5952023988006,bir
+2516,oscar bressane,7.666666666666667,bir
+2517,osorio,11.3125,iki
+2518,osvaldo cruz,9.4,bir
+2519,osvaldo kroeff,21.0,beş
+2520,otacilio costa,20.8,beş
+2521,ourem,57.0,altı
+2522,ouricuri,18.75,beş
+2523,ourilandia do norte,21.4,altı
+2524,ourinhos,10.338028169014084,iki
+2525,ourizona,20.0,beş
+2526,ouro branco,13.076923076923077,üç
+2527,ouro fino,13.153846153846153,üç
+2528,ouro preto,14.058823529411764,üç
+2529,ouro preto do oeste,18.25,beş
+2530,ouro verde,8.666666666666666,bir
+2531,ouro verde de goias,7.0,bir
+2532,ouro verde de minas,15.0,dört
+2533,ouro verde do oeste,10.0,bir
+2534,ouroeste,13.6,üç
+2535,ouvidor,13.0,üç
+2536,pacaembu,8.666666666666666,bir
+2537,pacaja,26.166666666666668,altı
+2538,pacajus,29.6,altı
+2539,pacatuba,16.4,dört
+2540,paco do lumiar,25.142857142857142,altı
+2541,pacoti,28.0,altı
+2542,pacotuba,30.0,altı
+2543,padre bernardo,19.25,beş
+2544,padre gonzales,13.0,üç
+2545,padre paraiso,19.0,beş
+2546,paial,17.0,dört
+2547,paicandu,12.7,üç
+2548,paineiras,8.0,bir
+2549,pains,13.666666666666666,üç
+2550,paiva,18.0,beş
+2551,palestina,8.6,bir
+2552,palhano,18.0,beş
+2553,palhoca,16.305882352941175,dört
+2554,palma,7.25,bir
+2555,palma sola,14.75,dört
+2556,palmares,14.857142857142858,dört
+2557,palmares do sul,13.8,üç
+2558,palmares paulista,8.0,bir
+2559,palmas,16.467391304347824,dört
+2560,palmeira,14.866666666666667,dört
+2561,palmeira d oeste,8.0,bir
+2562,palmeira d'oeste,12.8,üç
+2563,palmeira das missoes,12.375,üç
+2564,palmeira dos indios,23.5,altı
+2565,palmeiras,22.5,altı
+2566,palmeiras de goias,25.333333333333332,altı
+2567,palminopolis,13.0,üç
+2568,palmital,11.210526315789474,iki
+2569,palmitinho,14.4,dört
+2570,palmitos,11.2,iki
+2571,palmopolis,15.0,dört
+2572,palotina,13.4,üç
+2573,panambi,16.88235294117647,dört
+2574,pancas,17.0,dört
+2575,panelas,18.0,beş
+2576,panorama,14.4,dört
+2577,pantano grande,13.0,üç
+2578,papagaios,12.25,üç
+2579,papanduva,14.625,dört
+2580,papucaia,12.5,üç
+2581,para de minas,11.852941176470589,iki
+2582,paracambi,14.285714285714286,üç
+2583,paracatu,12.23728813559322,üç
+2584,paracuru,25.5,altı
+2585,paragominas,22.764705882352942,altı
+2586,paraguacu,14.2,üç
+2587,paraguacu paulista,9.15,bir
+2588,parai,15.0,dört
+2589,paraiba do sul,14.666666666666666,dört
+2590,paraibano,27.0,altı
+2591,paraibuna,11.8,iki
+2592,paraipaba,24.2,altı
+2593,paraiso,10.6,iki
+2594,paraiso das aguas,15.0,dört
+2595,paraiso do norte,18.666666666666668,beş
+2596,paraiso do sul,9.0,bir
+2597,paraiso do tocantins,13.444444444444445,üç
+2598,paraisopolis,12.928571428571429,üç
+2599,paraju,27.0,altı
+2600,parambu,18.333333333333332,beş
+2601,paramirim,21.4,altı
+2602,parana,29.5,altı
+2603,paranacity,13.666666666666666,üç
+2604,paranagua,12.618181818181819,üç
+2605,paranaiba,12.142857142857142,iki
+2606,paranaiguara,13.666666666666666,üç
+2607,paranaita,18.666666666666668,beş
+2608,paranapanema,15.875,dört
+2609,paranapoema,19.0,beş
+2610,paranapua,8.5,bir
+2611,paranatinga,11.5,iki
+2612,paranavai,13.891891891891891,üç
+2613,paranhos,14.0,üç
+2614,paraopeba,14.444444444444445,dört
+2615,parapua,8.25,bir
+2616,parati,13.583333333333334,üç
+2617,paraty,20.764705882352942,beş
+2618,parauapebas,23.153846153846153,altı
+2619,parauna,12.0,iki
+2620,pareci novo,10.0,bir
+2621,parelhas,14.25,üç
+2622,paripiranga,20.5,beş
+2623,paripueira,27.0,altı
+2624,pariquera-acu,12.5,üç
+2625,parisi,13.0,üç
+2626,parnaiba,16.05,dört
+2627,parnamirim,16.105263157894736,dört
+2628,parnarama,20.0,beş
+2629,parobe,10.583333333333334,iki
+2630,passa quatro,10.428571428571429,iki
+2631,passa tempo,8.0,bir
+2632,passa tres,21.5,altı
+2633,passo de torres,18.571428571428573,beş
+2634,passo fundo,14.038461538461538,üç
+2635,passos,12.714285714285714,üç
+2636,passos maia,16.5,dört
+2637,pastos bons,18.5,beş
+2638,patis,23.0,altı
+2639,pato bragado,19.0,beş
+2640,pato branco,12.0,iki
+2641,patos,16.071428571428573,dört
+2642,patos de minas,12.25263157894737,üç
+2643,patrocinio,10.975609756097562,iki
+2644,patrocinio do muriae,21.5,altı
+2645,patrocinio paulista,17.5,beş
+2646,patu,19.333333333333332,beş
+2647,paty do alferes,18.90909090909091,beş
+2648,pau brasil,22.0,altı
+2649,pau d'arco,28.0,altı
+2650,pau dos ferros,19.11111111111111,beş
+2651,paudalho,23.0,altı
+2652,paula candido,23.0,altı
+2653,pauliceia,27.0,altı
+2654,paulinia,9.578512396694215,bir
+2655,paulista,20.102564102564102,beş
+2656,paulistana,16.666666666666668,dört
+2657,paulistania,9.0,bir
+2658,paulo afonso,20.055555555555557,beş
+2659,paulo de faria,10.75,iki
+2660,paulo frontin,8.75,bir
+2661,paulo jacinto,14.0,üç
+2662,paulo lopes,17.5,beş
+2663,pavao,8.0,bir
+2664,peabiru,19.25,beş
+2665,pecanha,15.5,dört
+2666,pederneiras,9.15,bir
+2667,pedra,31.666666666666668,altı
+2668,pedra azul,22.75,altı
+2669,pedra bela,4.0,bir
+2670,pedra branca,24.0,altı
+2671,pedra do indaia,13.0,üç
+2672,pedra lavrada,39.0,altı
+2673,pedra menina,14.0,üç
+2674,pedra preta,26.0,altı
+2675,pedralva,14.0,üç
+2676,pedranopolis,8.0,bir
+2677,pedrao,14.0,üç
+2678,pedras altas,18.0,beş
+2679,pedras de fogo,23.5,altı
+2680,pedregulho,15.5,dört
+2681,pedreira,9.277777777777779,bir
+2682,pedreiras,13.0,üç
+2683,pedrinhas paulista,12.5,üç
+2684,pedrinopolis,10.5,iki
+2685,pedro afonso,18.666666666666668,beş
+2686,pedro canario,18.4,beş
+2687,pedro de toledo,13.625,üç
+2688,pedro gomes,17.0,dört
+2689,pedro ii,13.0,üç
+2690,pedro leopoldo,9.885714285714286,bir
+2691,pedro osorio,17.5,beş
+2692,pedro velho,24.0,altı
+2693,peixe,20.0,beş
+2694,peixoto de azevedo,15.75,dört
+2695,pejucara,16.0,dört
+2696,pelotas,17.61627906976744,beş
+2697,penaforte,22.0,altı
+2698,penapolis,8.242424242424242,bir
+2699,pendencias,18.5,beş
+2700,penedo,20.11111111111111,beş
+2701,penha,16.466666666666665,dört
+2702,pentecoste,14.0,üç
+2703,pequi,7.0,bir
+2704,pequizeiro,15.0,dört
+2705,perdigao,12.833333333333334,üç
+2706,perdizes,36.142857142857146,altı
+2707,perdoes,9.555555555555555,bir
+2708,pereira barreto,12.941176470588236,üç
+2709,pereiras,8.0,bir
+2710,pereiro,20.0,beş
+2711,peri mirim,12.0,iki
+2712,periquito,8.5,bir
+2713,peritiba,13.0,üç
+2714,perobal,29.0,altı
+2715,perola,16.5,dört
+2716,perola d'oeste,18.0,beş
+2717,perpetuo socorro,11.0,iki
+2718,peruibe,12.864864864864865,üç
+2719,pescador,25.0,altı
+2720,pesqueira,16.11111111111111,dört
+2721,petrolandia,13.285714285714286,üç
+2722,petrolina,16.559322033898304,dört
+2723,petropolis,15.30952380952381,dört
+2724,piacabucu,19.5,beş
+2725,piacatu,8.0,bir
+2726,piacu,25.0,altı
+2727,pianco,28.0,altı
+2728,piata,28.0,altı
+2729,piau,8.0,bir
+2730,picada cafe,9.0,bir
+2731,picarras,25.0,altı
+2732,picos,20.214285714285715,beş
+2733,picui,19.0,beş
+2734,piedade,13.523809523809524,üç
+2735,piedade de caratinga,14.8,dört
+2736,piedade do rio grande,12.5,üç
+2737,piedade dos gerais,8.333333333333334,bir
+2738,pien,17.0,dört
+2739,pilao arcado,15.75,dört
+2740,pilar,28.25,altı
+2741,pilar do sul,9.909090909090908,bir
+2742,pimenta,10.5,iki
+2743,pimenta bueno,21.571428571428573,altı
+2744,pimenteiras,10.0,bir
+2745,pindai,23.0,altı
+2746,pindamonhangaba,10.402173913043478,iki
+2747,pindare mirim,21.0,beş
+2748,pindoba,12.0,iki
+2749,pindobacu,16.666666666666668,dört
+2750,pindorama,8.5,bir
+2751,pindorama do tocantins,14.0,üç
+2752,pindoretama,15.0,dört
+2753,pingo-d'agua,8.0,bir
+2754,pinhais,10.46031746031746,iki
+2755,pinhal da serra,14.0,üç
+2756,pinhalao,8.857142857142858,bir
+2757,pinhalzinho,14.095238095238095,üç
+2758,pinhao,14.333333333333334,üç
+2759,pinheiral,16.714285714285715,dört
+2760,pinheiro,19.75,beş
+2761,pinheiro machado,13.8,üç
+2762,pinheiros,9.125,bir
+2763,pintadas,17.0,dört
+2764,pio ix,33.0,altı
+2765,pio xii,15.0,dört
+2766,piquerobi,5.0,bir
+2767,piquete,7.888888888888889,bir
+2768,piracaia,10.578947368421053,iki
+2769,piracanjuba,16.22222222222222,dört
+2770,piracema,20.0,beş
+2771,piracicaba,7.755287009063444,bir
+2772,piracuruca,21.0,beş
+2773,pirai,23.083333333333332,altı
+2774,pirai do norte,24.0,altı
+2775,pirai do sul,10.166666666666666,iki
+2776,piraju,8.466666666666667,bir
+2777,pirajuba,24.0,altı
+2778,pirajui,9.11111111111111,bir
+2779,pirambu,21.0,beş
+2780,piranga,15.333333333333334,dört
+2781,pirangi,10.571428571428571,iki
+2782,piranguinho,17.625,beş
+2783,piranhas,13.25,üç
+2784,pirapetinga,13.166666666666666,üç
+2785,pirapo,19.0,beş
+2786,pirapora,10.80952380952381,iki
+2787,pirapora do bom jesus,6.5,bir
+2788,pirapozinho,9.285714285714286,bir
+2789,piraquara,10.923076923076923,iki
+2790,pirassununga,11.515625,iki
+2791,piratini,24.0,altı
+2792,piratininga,11.285714285714286,iki
+2793,piratuba,13.0,üç
+2794,pirauba,7.666666666666667,bir
+2795,pirenopolis,18.0,beş
+2796,pires do rio,15.6,dört
+2797,pires ferreira,26.0,altı
+2798,piripa,20.0,beş
+2799,piripiri,16.428571428571427,dört
+2800,piritiba,14.6,dört
+2801,pirpirituba,19.0,beş
+2802,pitanga,12.333333333333334,üç
+2803,pitangueiras,10.666666666666666,iki
+2804,pitangui,12.333333333333334,üç
+2805,pitimbu,11.0,iki
+2806,pium,14.0,üç
+2807,piuma,13.352941176470589,üç
+2808,piumhi,8.0,bir
+2809,piumhii,11.407407407407407,iki
+2810,placas,56.5,altı
+2811,planaltina,13.11111111111111,üç
+2812,planaltina de goias,10.5,iki
+2813,planaltina do parana,15.0,dört
+2814,planalto,13.11111111111111,üç
+2815,planura,9.0,bir
+2816,poa,6.246753246753247,bir
+2817,pocao,23.0,altı
+2818,pocao de pedras,28.0,altı
+2819,pocinhos,22.333333333333332,altı
+2820,poco fundo,13.142857142857142,üç
+2821,poco verde,24.25,altı
+2822,pocoes,15.0,dört
+2823,pocos de caldas,12.798076923076923,üç
+2824,pocrane,16.0,dört
+2825,pojuca,16.916666666666668,dört
+2826,poloni,11.666666666666666,iki
+2827,pombal,21.25,altı
+2828,pombos,31.0,altı
+2829,pomerode,10.11111111111111,iki
+2830,pompeia,11.625,iki
+2831,pompeu,12.5,üç
+2832,pongai,11.5,iki
+2833,ponta grossa,12.007407407407408,iki
+2834,ponta pora,15.411764705882353,dört
+2835,pontal,9.333333333333334,bir
+2836,pontal do parana,12.625,üç
+2837,pontalina,13.5,üç
+2838,pontalinda,10.5,iki
+2839,pontao,19.0,beş
+2840,ponte alta do norte,8.0,bir
+2841,ponte nova,12.216216216216216,üç
+2842,ponte serrada,13.666666666666666,üç
+2843,pontes e lacerda,14.555555555555555,dört
+2844,pontes gestal,13.0,üç
+2845,ponto belo,8.0,bir
+2846,ponto do marambaia,15.0,dört
+2847,ponto dos volantes,15.5,dört
+2848,ponto novo,32.0,altı
+2849,porangaba,8.0,bir
+2850,porangatu,16.083333333333332,dört
+2851,porciuncula,12.25,üç
+2852,porecatu,14.88888888888889,dört
+2853,portalegre,14.0,üç
+2854,portao,13.222222222222221,üç
+2855,porteiras,9.0,bir
+2856,porteirinha,20.2,beş
+2857,portela,29.0,altı
+2858,portelandia,16.0,dört
+2859,porto acre,29.0,altı
+2860,porto alegre,15.875801282051283,dört
+2861,porto alegre do norte,22.0,altı
+2862,porto amazonas,10.0,bir
+2863,porto belo,13.11111111111111,üç
+2864,porto calvo,26.0,altı
+2865,porto de pedras,7.0,bir
+2866,porto esperidiao,33.5,altı
+2867,porto estrela,10.0,bir
+2868,porto feliz,7.9,bir
+2869,porto ferreira,10.166666666666666,iki
+2870,porto firme,8.0,bir
+2871,porto franco,32.5,altı
+2872,porto grande,22.0,altı
+2873,porto lucena,18.0,beş
+2874,porto murtinho,12.0,iki
+2875,porto nacional,12.875,üç
+2876,porto real,32.142857142857146,altı
+2877,porto rico,7.0,bir
+2878,porto seguro,22.676470588235293,altı
+2879,porto trombetas,27.5,altı
+2880,porto uniao,15.214285714285714,dört
+2881,porto velho,19.010204081632654,beş
+2882,porto xavier,12.2,üç
+2883,posse,18.066666666666666,beş
+2884,posto da mata,14.5,dört
+2885,pote,8.666666666666666,bir
+2886,potengi,19.5,beş
+2887,potim,9.0,bir
+2888,potiragua,14.714285714285714,dört
+2889,potirendaba,10.375,iki
+2890,pouso alegre,11.90983606557377,iki
+2891,pouso alto,11.666666666666666,iki
+2892,pouso novo,19.0,beş
+2893,pouso redondo,12.333333333333334,üç
+2894,poxoreu,13.5,üç
+2895,prado,11.0,iki
+2896,pradopolis,7.9,bir
+2897,prados,10.333333333333334,iki
+2898,praia grande,10.84115523465704,iki
+2899,praia norte,29.0,altı
+2900,pranchita,20.0,beş
+2901,prata,11.727272727272727,iki
+2902,pratapolis,13.0,üç
+2903,presidente alves,8.0,bir
+2904,presidente bernardes,12.0,iki
+2905,presidente castello branco,17.0,dört
+2906,presidente dutra,31.5,altı
+2907,presidente epitacio,10.25,iki
+2908,presidente getulio,15.833333333333334,dört
+2909,presidente janio quadros,12.0,iki
+2910,presidente juscelino,23.0,altı
+2911,presidente kennedy,11.5,iki
+2912,presidente kubitschek,16.0,dört
+2913,presidente lucena,20.0,beş
+2914,presidente medici,13.333333333333334,üç
+2915,presidente nereu,16.0,dört
+2916,presidente olegario,12.0,iki
+2917,presidente prudente,10.445945945945946,iki
+2918,presidente tancredo neves,20.5,beş
+2919,presidente venceslau,12.526315789473685,üç
+2920,primavera,16.375,dört
+2921,primavera do leste,19.166666666666668,beş
+2922,primeiro de maio,16.333333333333332,dört
+2923,progresso,18.0,beş
+2924,promissao,10.193548387096774,iki
+2925,propria,18.5,beş
+2926,protasio alves,16.5,dört
+2927,prudencio thomaz,21.0,beş
+2928,prudente de morais,13.0,üç
+2929,prudentopolis,10.0,bir
+2930,pugmil,36.0,altı
+2931,pureza,12.0,iki
+2932,purilandia,24.0,altı
+2933,putinga,23.5,altı
+2934,puxinana,21.0,beş
+2935,quadra,9.5,bir
+2936,quarai,16.25,dört
+2937,quata,9.916666666666666,bir
+2938,quatigua,10.4,iki
+2939,quatis,11.8,iki
+2940,quatituba,7.0,bir
+2941,quatro barras,11.0,iki
+2942,quatro bocas,20.8,beş
+2943,quatro pontes,11.0,iki
+2944,quedas do iguacu,11.375,iki
+2945,queimadas,17.875,beş
+2946,queimados,12.36,üç
+2947,queiroz,7.0,bir
+2948,queixada,27.0,altı
+2949,queluz,16.5,dört
+2950,querencia,17.125,beş
+2951,querencia do norte,19.0,beş
+2952,quevedos,20.5,beş
+2953,quijingue,18.5,beş
+2954,quilombo,11.25,iki
+2955,quilometro 14 do mutum,16.0,dört
+2956,quinta do sol,16.333333333333332,dört
+2957,quintana,44.25,altı
+2958,quipapa,13.0,üç
+2959,quirinopolis,19.857142857142858,beş
+2960,quissama,13.7,üç
+2961,quitandinha,5.0,bir
+2962,quixabeira,12.0,iki
+2963,quixada,22.153846153846153,altı
+2964,quixelo,12.5,üç
+2965,quixeramobim,19.333333333333332,beş
+2966,quixere,28.0,altı
+2967,rafard,12.2,üç
+2968,rainha do mar,32.0,altı
+2969,rancharia,11.947368421052632,iki
+2970,rancho alegre,8.0,bir
+2971,rancho alegre d'oeste,17.0,dört
+2972,rancho queimado,16.5,dört
+2973,raposo,45.5,altı
+2974,raposos,10.222222222222221,iki
+2975,raul soares,18.7,beş
+2976,ravena,8.0,bir
+2977,realeza,9.2,bir
+2978,reboucas,11.333333333333334,iki
+2979,rechan,26.0,altı
+2980,recife,18.472566371681417,beş
+2981,recreio,13.333333333333334,üç
+2982,redencao,27.0,altı
+2983,redencao da serra,12.0,iki
+2984,redencao do gurgueia,20.0,beş
+2985,redentora,16.0,dört
+2986,regeneracao,15.833333333333334,dört
+2987,regente feijo,11.0,iki
+2988,reginopolis,9.0,bir
+2989,registro,12.0,iki
+2990,remanso,18.2,beş
+2991,remigio,6.0,bir
+2992,renascenca,14.25,üç
+2993,reriutaba,28.666666666666668,altı
+2994,resende,16.735849056603772,dört
+2995,resende costa,13.333333333333334,üç
+2996,reserva,9.0,bir
+2997,reserva do cabacal,18.5,beş
+2998,reserva do iguacu,16.0,dört
+2999,resplendor,9.1,bir
+3000,restinga seca,10.333333333333334,iki
+3001,riachao das neves,16.0,dört
+3002,riachao do jacuipe,14.0,üç
+3003,riachinho,12.5,üç
+3004,riacho da cruz,15.0,dört
+3005,riacho das almas,14.0,üç
+3006,riacho de santana,20.25,beş
+3007,riacho de santo antonio,46.0,altı
+3008,riacho dos machados,9.666666666666666,bir
+3009,riachuelo,13.0,üç
+3010,rianapolis,27.0,altı
+3011,ribas do rio pardo,12.0,iki
+3012,ribeira,11.333333333333334,iki
+3013,ribeira do amparo,20.0,beş
+3014,ribeira do pombal,18.875,beş
+3015,ribeirao,21.75,altı
+3016,ribeirao bonito,20.285714285714285,beş
+3017,ribeirao branco,14.5,dört
+3018,ribeirao cascalheira,26.0,altı
+3019,ribeirao claro,15.8,dört
+3020,ribeirao das neves,11.633333333333333,iki
+3021,ribeirao do pinhal,12.4,üç
+3022,ribeirao do sul,6.0,bir
+3023,ribeirao pires,7.990196078431373,bir
+3024,ribeirao preto,9.557446808510639,bir
+3025,ribeirao vermelho,10.5,iki
+3026,ribeiraozinho,16.0,dört
+3027,ribeiro junqueira,43.0,altı
+3028,ribeiropolis,17.0,dört
+3029,rifaina,5.0,bir
+3030,rinopolis,7.5,bir
+3031,rio acima,10.875,iki
+3032,rio azul,14.4,dört
+3033,rio bananal,15.5,dört
+3034,rio bonito,14.653846153846153,dört
+3035,rio bonito do iguacu,11.5,iki
+3036,rio branco,20.797101449275363,beş
+3037,rio branco do sul,12.5,üç
+3038,rio brilhante,13.3,üç
+3039,rio casca,10.0,bir
+3040,rio claro,8.778571428571428,bir
+3041,rio das antas,20.0,beş
+3042,rio das flores,19.833333333333332,beş
+3043,rio das ostras,19.49586776859504,beş
+3044,rio das pedras,10.666666666666666,iki
+3045,rio de contas,12.5,üç
+3046,rio de janeiro,14.667910447761194,dört
+3047,rio do antonio,12.0,iki
+3048,rio do campo,17.0,dört
+3049,rio do oeste,16.0,dört
+3050,rio do pires,23.25,altı
+3051,rio do sul,15.25,dört
+3052,rio doce,20.0,beş
+3053,rio dos cedros,20.0,beş
+3054,rio dos indios,12.0,iki
+3055,rio espera,8.0,bir
+3056,rio formoso,18.5,beş
+3057,rio fortuna,12.333333333333334,üç
+3058,rio grande,16.675213675213676,dört
+3059,rio grande da serra,8.375,bir
+3060,rio grande do piaui,14.0,üç
+3061,rio largo,19.833333333333332,beş
+3062,rio manso,10.8,iki
+3063,rio maria,21.666666666666668,altı
+3064,rio negrinho,12.583333333333334,üç
+3065,rio negro,12.615384615384615,üç
+3066,rio novo,8.25,bir
+3067,rio novo do sul,19.8,beş
+3068,rio paranaiba,9.777777777777779,bir
+3069,rio pardo,15.8,dört
+3070,rio pardo de minas,12.8,üç
+3071,rio piracicaba,11.0,iki
+3072,rio pomba,14.0,üç
+3073,rio preto,14.0,üç
+3074,rio real,18.333333333333332,beş
+3075,rio rufino,7.0,bir
+3076,rio tinto,29.5,altı
+3077,rio verde,17.228070175438596,beş
+3078,riolandia,6.0,bir
+3079,riqueza,15.0,dört
+3080,ritapolis,7.666666666666667,bir
+3081,riversul,10.0,bir
+3082,roca sales,6.0,bir
+3083,rodeio,13.0,üç
+3084,rodeio bonito,20.0,beş
+3085,rodeiro,11.666666666666666,iki
+3086,rodelas,15.666666666666666,dört
+3087,rodolfo fernandes,28.5,altı
+3088,rolandia,11.583333333333334,iki
+3089,rolante,13.0,üç
+3090,rolim de moura,17.0,dört
+3091,romaria,13.0,üç
+3092,romelandia,13.0,üç
+3093,roncador,14.0,üç
+3094,ronda alta,21.4,altı
+3095,rondon,8.0,bir
+3096,rondon do para,19.857142857142858,beş
+3097,rondonopolis,15.98360655737705,dört
+3098,roque gonzales,11.6,iki
+3099,rosana,11.5,iki
+3100,rosario,16.0,dört
+3101,rosario do ivai,16.0,dört
+3102,rosario do sul,22.25,altı
+3103,roseira,6.4,bir
+3104,rubelita,16.0,dört
+3105,rubiacea,6.5,bir
+3106,rubiataba,13.0,üç
+3107,rubim,13.666666666666666,üç
+3108,rubineia,64.0,altı
+3109,russas,25.0,altı
+3110,ruy barbosa,17.666666666666668,beş
+3111,sabara,9.682926829268293,bir
+3112,sabaudia,12.0,iki
+3113,sabino,9.0,bir
+3114,sabinopolis,11.4,iki
+3115,saboeiro,22.0,altı
+3116,sacra familia do tingua,8.0,bir
+3117,sacramento,13.181818181818182,üç
+3118,sales,10.4,iki
+3119,sales oliveira,12.666666666666666,üç
+3120,salesopolis,10.88888888888889,iki
+3121,salgado filho,18.0,beş
+3122,salgueiro,14.470588235294118,dört
+3123,salinas,13.5,üç
+3124,salinas da margarida,28.0,altı
+3125,salmourao,8.0,bir
+3126,saloa,16.0,dört
+3127,salobro,21.0,beş
+3128,saltinho,7.75,bir
+3129,salto,10.070588235294117,iki
+3130,salto da divisa,12.5,üç
+3131,salto de pirapora,12.727272727272727,üç
+3132,salto do ceu,16.0,dört
+3133,salto do itarare,11.0,iki
+3134,salto do jacui,13.666666666666666,üç
+3135,salto do lontra,18.666666666666668,beş
+3136,salto grande,5.0,bir
+3137,salto veloso,15.25,dört
+3138,salvador,19.330922242314646,beş
+3139,sananduva,15.333333333333334,dört
+3140,sanclerlandia,13.25,üç
+3141,sandolandia,16.0,dört
+3142,sanga puita,27.0,altı
+3143,sangao,21.0,beş
+3144,sanharo,25.5,altı
+3145,santa adelia,10.785714285714286,iki
+3146,santa albertina,7.0,bir
+3147,santa amelia,22.0,altı
+3148,santa barbara,14.142857142857142,üç
+3149,santa barbara d oeste,10.75,iki
+3150,santa barbara d'oeste,8.181818181818182,bir
+3151,santa barbara do para,22.0,altı
+3152,santa barbara do sul,27.0,altı
+3153,santa branca,13.333333333333334,üç
+3154,santa brigida,20.0,beş
+3155,santa cecilia,20.6,beş
+3156,santa cecilia do pavao,15.0,dört
+3157,santa clara d'oeste,14.0,üç
+3158,santa clara do sul,10.5,iki
+3159,santa cruz,26.0,altı
+3160,santa cruz cabralia,22.8,altı
+3161,santa cruz da conceicao,11.75,iki
+3162,santa cruz das palmeiras,11.75,iki
+3163,santa cruz de goias,67.5,altı
+3164,santa cruz de minas,14.0,üç
+3165,santa cruz de monte castelo,12.0,iki
+3166,santa cruz de salinas,32.0,altı
+3167,santa cruz do capibaribe,19.11111111111111,beş
+3168,santa cruz do piaui,13.0,üç
+3169,santa cruz do prata,21.0,beş
+3170,santa cruz do rio pardo,9.06060606060606,bir
+3171,santa cruz do sul,15.581818181818182,dört
+3172,santa cruz do timbo,13.0,üç
+3173,santa ernestina,10.0,bir
+3174,santa fe,18.8,beş
+3175,santa fe de goias,18.0,beş
+3176,santa fe de minas,9.0,bir
+3177,santa fe do sul,11.529411764705882,iki
+3178,santa filomena,16.0,dört
+3179,santa gertrudes,13.11111111111111,üç
+3180,santa helena,16.727272727272727,dört
+3181,santa helena de goias,13.5,üç
+3182,santa helena de minas,7.0,bir
+3183,santa ines,23.133333333333333,altı
+3184,santa isabel,8.37037037037037,bir
+3185,santa isabel do ivai,9.333333333333334,bir
+3186,santa isabel do para,18.0,beş
+3187,santa isabel do rio preto,11.0,iki
+3188,santa izabel do oeste,12.0,iki
+3189,santa juliana,11.285714285714286,iki
+3190,santa leopoldina,11.0,iki
+3191,santa lucia,7.75,bir
+3192,santa luzia,12.853932584269662,üç
+3193,santa luzia do norte,18.0,beş
+3194,santa luzia do parua,13.0,üç
+3195,santa margarida,14.5,dört
+3196,santa maria,16.420765027322403,dört
+3197,santa maria da boa vista,15.5,dört
+3198,santa maria da serra,6.0,bir
+3199,santa maria da vitoria,18.25,beş
+3200,santa maria de itabira,13.0,üç
+3201,santa maria de jetiba,15.23076923076923,dört
+3202,santa maria do herval,15.0,dört
+3203,santa maria do para,25.5,altı
+3204,santa maria do salto,12.0,iki
+3205,santa maria do suacui,19.5,beş
+3206,santa maria madalena,14.285714285714286,üç
+3207,santa mariana,10.5,iki
+3208,santa mercedes,11.0,iki
+3209,santa monica,9.0,bir
+3210,santa quiteria,16.0,dört
+3211,santa quiteria do maranhao,34.0,altı
+3212,santa rita,16.571428571428573,dört
+3213,santa rita d'oeste,8.333333333333334,bir
+3214,santa rita da floresta,21.0,beş
+3215,santa rita de caldas,11.0,iki
+3216,santa rita de jacutinga,8.0,bir
+3217,santa rita de minas,15.666666666666666,dört
+3218,santa rita do araguaia,15.428571428571429,dört
+3219,santa rita do ibitipoca,12.5,üç
+3220,santa rita do itueto,13.0,üç
+3221,santa rita do passa quatro,8.647058823529411,bir
+3222,santa rita do sapucai,14.35483870967742,üç
+3223,santa rosa,14.774193548387096,dört
+3224,santa rosa de lima,13.0,üç
+3225,santa rosa de viterbo,6.9,bir
+3226,santa rosa do sul,34.0,altı
+3227,santa salete,11.0,iki
+3228,santa teresa,20.444444444444443,beş
+3229,santa teresinha,13.5,üç
+3230,santa tereza do oeste,10.0,bir
+3231,santa terezinha,31.5,altı
+3232,santa terezinha de itaipu,13.0,üç
+3233,santa vitoria,11.764705882352942,iki
+3234,santa vitoria do palmar,15.636363636363637,dört
+3235,santaluz,57.333333333333336,altı
+3236,santana,23.5,altı
+3237,santana da boa vista,15.5,dört
+3238,santana da vargem,17.0,dört
+3239,santana de parnaiba,7.012269938650307,bir
+3240,santana de pirapama,13.0,üç
+3241,santana do acarau,17.75,beş
+3242,santana do araguaia,19.0,beş
+3243,santana do capivari,14.0,üç
+3244,santana do cariri,20.666666666666668,beş
+3245,santana do deserto,16.0,dört
+3246,santana do ipanema,24.0,altı
+3247,santana do itarare,17.0,dört
+3248,santana do jacare,20.75,beş
+3249,santana do livramento,13.38888888888889,üç
+3250,santana do manhuacu,6.666666666666667,bir
+3251,santana do mundau,12.666666666666666,üç
+3252,santana do paraiso,10.428571428571429,iki
+3253,santana do serido,9.5,bir
+3254,santana do sobrado,25.0,altı
+3255,santana dos montes,20.0,beş
+3256,santanesia,18.25,beş
+3257,santarem,33.285714285714285,altı
+3258,santiago,15.625,dört
+3259,santo amaro,19.5,beş
+3260,santo amaro da imperatriz,25.0,altı
+3261,santo amaro das brotas,21.0,beş
+3262,santo amaro de campos,15.333333333333334,dört
+3263,santo anastacio,11.066666666666666,iki
+3264,santo andre,7.845205479452055,bir
+3265,santo angelo,13.534883720930232,üç
+3266,santo antonio,13.0,üç
+3267,santo antonio da alegria,6.666666666666667,bir
+3268,santo antonio da patrulha,14.75,dört
+3269,santo antonio da platina,12.916666666666666,üç
+3270,santo antonio das missoes,10.5,iki
+3271,santo antonio das queimadas,19.0,beş
+3272,santo antonio de jesus,16.333333333333332,dört
+3273,santo antonio de padua,15.925925925925926,dört
+3274,santo antonio de posse,8.6,bir
+3275,santo antonio do amparo,14.333333333333334,üç
+3276,santo antonio do aracangua,8.0,bir
+3277,santo antonio do aventureiro,7.0,bir
+3278,santo antonio do canaa,22.0,altı
+3279,santo antonio do descoberto,21.0,beş
+3280,santo antonio do grama,8.5,bir
+3281,santo antonio do itambe,10.666666666666666,iki
+3282,santo antonio do jacinto,15.857142857142858,dört
+3283,santo antonio do jardim,9.75,bir
+3284,santo antonio do leste,11.0,iki
+3285,santo antonio do leverger,14.0,üç
+3286,santo antonio do monte,13.0,üç
+3287,santo antonio do palma,12.5,üç
+3288,santo antonio do pinhal,8.0,bir
+3289,santo antonio do planalto,12.0,iki
+3290,santo antonio do rio abaixo,22.0,altı
+3291,santo antonio do sudoeste,19.666666666666668,beş
+3292,santo antonio do taua,26.0,altı
+3293,santo antonio dos campos,15.0,dört
+3294,santo augusto,15.0,dört
+3295,santo cristo,19.714285714285715,beş
+3296,santo estevao,14.5,dört
+3297,santo expedito,7.0,bir
+3298,santo expedito do sul,10.0,bir
+3299,santo hipolito,11.0,iki
+3300,santo inacio,11.0,iki
+3301,santos,9.198461538461538,bir
+3302,santos dumont,12.571428571428571,üç
+3303,sao benedito,18.2,beş
+3304,sao benedito do rio preto,25.0,altı
+3305,sao benedito do sul,20.0,beş
+3306,sao bentinho,16.0,dört
+3307,sao bento,22.0,altı
+3308,sao bento abade,12.0,iki
+3309,sao bento do sapucai,11.285714285714286,iki
+3310,sao bento do sul,13.767441860465116,üç
+3311,sao bento do una,21.75,altı
+3312,sao bernardino,14.0,üç
+3313,sao bernardo,14.0,üç
+3314,sao bernardo do campo,7.825934579439252,bir
+3315,sao bonifacio,13.0,üç
+3316,sao borja,15.333333333333334,dört
+3317,sao bras,33.0,altı
+3318,sao bras do suacui,10.0,bir
+3319,sao caetano do sul,8.141176470588235,bir
+3320,sao carlos,9.793577981651376,bir
+3321,sao carlos do ivai,5.0,bir
+3322,sao cristovao,16.666666666666668,dört
+3323,sao cristovao do sul,7.0,bir
+3324,sao desiderio,16.0,dört
+3325,sao domingos,17.571428571428573,beş
+3326,sao domingos das dores,8.0,bir
+3327,sao domingos do araguaia,15.0,dört
+3328,sao domingos do maranhao,16.0,dört
+3329,sao domingos do norte,24.142857142857142,altı
+3330,sao domingos do prata,9.333333333333334,bir
+3331,sao felipe,26.0,altı
+3332,sao felix,36.0,altı
+3333,sao felix de minas,6.0,bir
+3334,sao felix do araguaia,19.0,beş
+3335,sao felix do coribe,16.0,dört
+3336,sao felix do xingu,27.571428571428573,altı
+3337,sao fidelis,12.0,iki
+3338,sao francisco,14.333333333333334,üç
+3339,sao francisco de assis,30.0,altı
+3340,sao francisco de itabapoana,14.357142857142858,üç
+3341,sao francisco de paula,13.714285714285714,üç
+3342,sao francisco do brejao,30.0,altı
+3343,sao francisco do conde,10.333333333333334,iki
+3344,sao francisco do gloria,6.0,bir
+3345,sao francisco do guapore,17.5,beş
+3346,sao francisco do sul,18.76923076923077,beş
+3347,sao gabriel,15.095238095238095,dört
+3348,sao gabriel da palha,14.083333333333334,üç
+3349,sao gabriel do oeste,10.142857142857142,iki
+3350,sao geraldo,9.666666666666666,bir
+3351,sao geraldo da piedade,14.0,üç
+3352,sao geraldo do baguari,10.0,bir
+3353,sao goncalo,18.88186813186813,beş
+3354,sao goncalo do abaete,10.0,bir
+3355,sao goncalo do amarante,18.636363636363637,beş
+3356,sao goncalo do para,19.5,beş
+3357,sao goncalo do rio abaixo,11.166666666666666,iki
+3358,sao goncalo do rio das pedras,16.0,dört
+3359,sao goncalo do rio preto,14.666666666666666,dört
+3360,sao goncalo do sapucai,12.25,üç
+3361,sao gotardo,16.352941176470587,dört
+3362,sao jeronimo,12.0,iki
+3363,sao joao,16.25,dört
+3364,sao joao batista,17.454545454545453,beş
+3365,sao joao batista do gloria,12.0,iki
+3366,sao joao d'alianca,22.333333333333332,altı
+3367,sao joao da barra,15.571428571428571,dört
+3368,sao joao da boa vista,11.486842105263158,iki
+3369,sao joao da mata,18.0,beş
+3370,sao joao da parauna,8.0,bir
+3371,sao joao da ponte,6.0,bir
+3372,sao joao da urtiga,5.0,bir
+3373,sao joao das missoes,9.0,bir
+3374,sao joao de iracema,20.666666666666668,beş
+3375,sao joao de meriti,17.474137931034484,beş
+3376,sao joao de petropolis,21.0,beş
+3377,sao joao de pirabas,46.0,altı
+3378,sao joao del rei,13.333333333333334,üç
+3379,sao joao do ivai,14.5,dört
+3380,sao joao do manhuacu,8.5,bir
+3381,sao joao do manteninha,12.0,iki
+3382,sao joao do oriente,8.5,bir
+3383,sao joao do paraiso,17.5,beş
+3384,sao joao do piaui,14.4,dört
+3385,sao joao do sabugi,13.0,üç
+3386,sao joao do sobrado,17.0,dört
+3387,sao joao do sul,16.0,dört
+3388,sao joao do triunfo,15.0,dört
+3389,sao joao dos patos,23.714285714285715,altı
+3390,sao joao evangelista,16.833333333333332,dört
+3391,sao joao nepomuceno,14.0,üç
+3392,sao joaquim,14.75,dört
+3393,sao joaquim da barra,14.030303030303031,üç
+3394,sao joaquim de bicas,15.714285714285714,dört
+3395,sao joaquim do monte,17.0,dört
+3396,sao jorge,13.0,üç
+3397,sao jorge d'oeste,15.0,dört
+3398,sao jorge do ivai,28.0,altı
+3399,sao jorge do oeste,16.0,dört
+3400,sao jorge do patrocinio,9.5,bir
+3401,sao jose,15.318181818181818,dört
+3402,sao jose da barra,10.833333333333334,iki
+3403,sao jose da bela vista,12.0,iki
+3404,sao jose da boa vista,12.0,iki
+3405,sao jose da coroa grande,26.5,altı
+3406,sao jose da laje,29.5,altı
+3407,sao jose da lapa,12.875,üç
+3408,sao jose da tapera,19.0,beş
+3409,sao jose da vitoria,8.5,bir
+3410,sao jose de mipibu,18.333333333333332,beş
+3411,sao jose de ribamar,29.692307692307693,altı
+3412,sao jose de uba,12.333333333333334,üç
+3413,sao jose do barreiro,17.333333333333332,beş
+3414,sao jose do belmonte,24.5,altı
+3415,sao jose do calcado,13.666666666666666,üç
+3416,sao jose do campestre,13.0,üç
+3417,sao jose do cedro,18.333333333333332,beş
+3418,sao jose do cerrito,10.0,bir
+3419,sao jose do divino,15.5,dört
+3420,sao jose do egito,14.25,üç
+3421,sao jose do goiabal,13.5,üç
+3422,sao jose do hortencio,9.5,bir
+3423,sao jose do inhacora,16.0,dört
+3424,sao jose do norte,10.0,bir
+3425,sao jose do ouro,13.8,üç
+3426,sao jose do piaui,13.0,üç
+3427,sao jose do rio claro,15.5,dört
+3428,sao jose do rio pardo,12.275,üç
+3429,sao jose do rio preto,9.407766990291263,bir
+3430,sao jose do serido,25.0,altı
+3431,sao jose do turvo,15.666666666666666,dört
+3432,sao jose do vale do rio preto,14.7,dört
+3433,sao jose do xingu,29.0,altı
+3434,sao jose dos campos,8.532695374800637,bir
+3435,sao jose dos cordeiros,17.0,dört
+3436,sao jose dos pinhais,10.870967741935484,iki
+3437,sao jose dos quatro marcos,14.0,üç
+3438,sao leopoldo,14.98989898989899,dört
+3439,sao lourenco,12.064516129032258,iki
+3440,sao lourenco da mata,22.0,altı
+3441,sao lourenco da serra,7.0,bir
+3442,sao lourenco do oeste,12.777777777777779,üç
+3443,sao lourenco do piaui,14.0,üç
+3444,sao lourenco do sul,15.75,dört
+3445,sao ludgero,22.333333333333332,altı
+3446,sao luis,20.482649842271293,beş
+3447,sao luis de montes belos,20.428571428571427,beş
+3448,sao luis do curu,23.0,altı
+3449,sao luis do paraitinga,11.333333333333334,iki
+3450,sao luis do quitunde,39.0,altı
+3451,sao luiz do norte,9.0,bir
+3452,sao luiz gonzaga,11.0,iki
+3453,sao mamede,7.0,bir
+3454,sao manuel,9.473684210526315,bir
+3455,sao marcos,12.375,üç
+3456,sao martinho,11.666666666666666,iki
+3457,sao mateus,13.545454545454545,üç
+3458,sao mateus de minas,29.0,altı
+3459,sao mateus do maranhao,22.666666666666668,altı
+3460,sao mateus do sul,13.285714285714286,üç
+3461,sao miguel,16.0,dört
+3462,sao miguel arcanjo,8.846153846153847,bir
+3463,sao miguel das matas,23.0,altı
+3464,sao miguel do aleixo,18.0,beş
+3465,sao miguel do araguaia,12.25,üç
+3466,sao miguel do gostoso,33.5,altı
+3467,sao miguel do guama,22.4,altı
+3468,sao miguel do guapore,21.5,altı
+3469,sao miguel do iguacu,13.333333333333334,üç
+3470,sao miguel do oeste,13.833333333333334,üç
+3471,sao miguel do tapuio,5.5,bir
+3472,sao miguel dos campos,29.0,altı
+3473,sao nicolau,21.0,beş
+3474,sao patricio,4.0,bir
+3475,sao paulo,8.02508217807632,bir
+3476,sao paulo das missoes,18.0,beş
+3477,sao paulo do potengi,22.0,altı
+3478,sao pedro,13.5,üç
+3479,sao pedro da agua branca,19.0,beş
+3480,sao pedro da aldeia,16.733333333333334,dört
+3481,sao pedro da uniao,12.333333333333334,üç
+3482,sao pedro de alcantara,11.5,iki
+3483,sao pedro do butia,10.0,bir
+3484,sao pedro do iguacu,44.0,altı
+3485,sao pedro do ivai,14.333333333333334,üç
+3486,sao pedro do sul,18.0,beş
+3487,sao pedro do turvo,14.5,dört
+3488,sao pedro dos ferros,11.0,iki
+3489,sao rafael,22.0,altı
+3490,sao raimundo nonato,16.666666666666668,dört
+3491,sao romao,10.5,iki
+3492,sao roque,9.3,bir
+3493,sao roque de minas,10.5,iki
+3494,sao roque do canaa,17.8,beş
+3495,sao sebastiao,11.346938775510203,iki
+3496,sao sebastiao da amoreira,20.0,beş
+3497,sao sebastiao da boa vista,15.5,dört
+3498,sao sebastiao da grama,15.75,dört
+3499,sao sebastiao de campos,34.0,altı
+3500,sao sebastiao do alto,8.5,bir
+3501,sao sebastiao do cai,13.545454545454545,üç
+3502,sao sebastiao do maranhao,16.333333333333332,dört
+3503,sao sebastiao do paraiso,12.147058823529411,iki
+3504,sao sebastiao do passe,14.0,üç
+3505,sao sebastiao do rio verde,12.0,iki
+3506,sao sepe,13.333333333333334,üç
+3507,sao simao,15.076923076923077,dört
+3508,sao thome das letras,17.5,beş
+3509,sao tiago,17.8,beş
+3510,sao tomas de aquino,8.0,bir
+3511,sao tome,20.0,beş
+3512,sao valentim,18.0,beş
+3513,sao vicente,10.986928104575163,iki
+3514,sao vicente ferrer,16.5,dört
+3515,sape,16.0,dört
+3516,sapeacu,15.0,dört
+3517,sapezal,16.5,dört
+3518,sapiranga,13.45,üç
+3519,sapopema,14.5,dört
+3520,sapucai-mirim,15.25,dört
+3521,sapucaia,11.8,iki
+3522,sapucaia do sul,15.916666666666666,dört
+3523,saquarema,15.813953488372093,dört
+3524,sarandi,10.181818181818182,iki
+3525,sarapui,36.5,altı
+3526,sardoa,12.0,iki
+3527,sarutaia,10.0,bir
+3528,sarzedo,9.588235294117647,bir
+3529,satiro dias,17.0,dört
+3530,satuba,13.0,üç
+3531,satubinha,19.5,beş
+3532,saubara,12.0,iki
+3533,saudade do iguacu,12.0,iki
+3534,saudades,16.666666666666668,dört
+3535,saude,23.0,altı
+3536,schroeder,14.444444444444445,dört
+3537,seabra,17.6,beş
+3538,seara,12.0,iki
+3539,sebastiao leal,13.0,üç
+3540,seberi,20.5,beş
+3541,sede alvorada,21.0,beş
+3542,selbach,16.0,dört
+3543,senador amaral,17.5,beş
+3544,senador canedo,16.571428571428573,dört
+3545,senador firmino,13.5,üç
+3546,senador guiomard,13.0,üç
+3547,senador jose porfirio,24.0,altı
+3548,senador la rocque,13.0,üç
+3549,senador modestino goncalves,14.5,dört
+3550,senador pompeu,26.25,altı
+3551,senador salgado filho,6.0,bir
+3552,senges,17.0,dört
+3553,senhor do bonfim,16.714285714285715,dört
+3554,senhora de oliveira,22.0,altı
+3555,senhora dos remedios,10.0,bir
+3556,sento se,31.0,altı
+3557,serafina correa,20.555555555555557,beş
+3558,sericita,8.0,bir
+3559,seringueiras,22.0,altı
+3560,serio,13.0,üç
+3561,seropedica,12.935483870967742,üç
+3562,serra,17.32075471698113,beş
+3563,serra azul,24.0,altı
+3564,serra azul de minas,8.5,bir
+3565,serra bonita,31.0,altı
+3566,serra branca,12.0,iki
+3567,serra de sao bento,14.0,üç
+3568,serra do ramalho,21.25,altı
+3569,serra do salitre,13.0,üç
+3570,serra dos aimores,10.4,iki
+3571,serra dos dourados,75.0,altı
+3572,serra dourada,16.5,dört
+3573,serra negra,8.363636363636363,bir
+3574,serra talhada,17.3,beş
+3575,serrana,9.76923076923077,bir
+3576,serrania,16.0,dört
+3577,serranopolis,17.0,dört
+3578,serranopolis de minas,17.0,dört
+3579,serranopolis do iguacu,17.5,beş
+3580,serrinha,18.833333333333332,beş
+3581,serrita,32.0,altı
+3582,serro,13.5,üç
+3583,serrolandia,16.0,dört
+3584,sertania,19.25,beş
+3585,sertanopolis,10.25,iki
+3586,sertao,14.333333333333334,üç
+3587,sertao santana,14.0,üç
+3588,sertaozinho,10.163636363636364,iki
+3589,sete barras,11.666666666666666,iki
+3590,sete de setembro,11.0,iki
+3591,sete lagoas,13.228813559322035,üç
+3592,setubinha,9.666666666666666,bir
+3593,severiano melo,32.0,altı
+3594,severinia,11.333333333333334,iki
+3595,sideropolis,13.5,üç
+3596,sidrolandia,14.9,dört
+3597,silva jardim,11.0,iki
+3598,silvania,16.714285714285715,dört
+3599,silvano,14.0,üç
+3600,silvanopolis,14.0,üç
+3601,silveira carvalho,16.0,dört
+3602,silveira martins,17.0,dört
+3603,silveiras,10.0,bir
+3604,silvianopolis,13.333333333333334,üç
+3605,simao dias,13.142857142857142,üç
+3606,simao pereira,5.0,bir
+3607,simoes filho,15.15,dört
+3608,simolandia,9.5,bir
+3609,simonesia,10.875,iki
+3610,simplicio mendes,11.0,iki
+3611,sinimbu,12.5,üç
+3612,sinop,19.16216216216216,beş
+3613,siqueira campos,10.0,bir
+3614,sirinhaem,18.8,beş
+3615,sitio do quinto,21.0,beş
+3616,sitio novo,8.0,bir
+3617,sitio novo do tocantins,35.0,altı
+3618,sobradinho,16.666666666666668,dört
+3619,sobral,24.483870967741936,altı
+3620,sobralia,8.0,bir
+3621,socorro,8.411764705882353,bir
+3622,soledade,19.625,beş
+3623,soledade de minas,11.2,iki
+3624,solonopole,22.0,altı
+3625,sombrio,19.5,beş
+3626,sonora,12.0,iki
+3627,sooretama,15.2,dört
+3628,sorocaba,7.776247848537005,bir
+3629,sorriso,17.764705882352942,beş
+3630,sousa,16.142857142857142,dört
+3631,sucesso,25.333333333333332,altı
+3632,sucupira do norte,14.5,dört
+3633,sud mennucci,7.6,bir
+3634,sulina,13.0,üç
+3635,sumare,9.963636363636363,bir
+3636,sume,27.0,altı
+3637,sumidouro,18.9,beş
+3638,surubim,21.2,altı
+3639,suzano,7.889908256880734,bir
+3640,tabapora,12.5,üç
+3641,tabapua,9.454545454545455,bir
+3642,tabatinga,11.8,iki
+3643,tabira,22.0,altı
+3644,taboao da serra,6.820224719101123,bir
+3645,tabocas do brejo velho,20.333333333333332,beş
+3646,taboquinhas,7.0,bir
+3647,tabuleiro,21.0,beş
+3648,tabuleiro do norte,37.0,altı
+3649,tacaratu,24.0,altı
+3650,taciba,15.0,dört
+3651,tacuru,17.0,dört
+3652,taguai,7.7,bir
+3653,taguatinga,16.0,dört
+3654,taiacu,7.0,bir
+3655,tailandia,27.75,altı
+3656,taio,17.142857142857142,beş
+3657,taiobeiras,14.5,dört
+3658,taiuva,9.0,bir
+3659,tamandare,16.0,dört
+3660,tamarana,14.5,dört
+3661,tambau,11.631578947368421,iki
+3662,tamboara,13.0,üç
+3663,tanabi,11.272727272727273,iki
+3664,tangara,19.0,beş
+3665,tangara da serra,20.304347826086957,beş
+3666,tangua,16.166666666666668,dört
+3667,tanhacu,26.75,altı
+3668,tanque d'arca,20.5,beş
+3669,tanque novo,23.666666666666668,altı
+3670,taparuba,7.0,bir
+3671,tapejara,13.7,üç
+3672,tapera,8.0,bir
+3673,taperuaba,13.0,üç
+3674,tapes,10.5,iki
+3675,tapinas,14.0,üç
+3676,tapirai,17.5,beş
+3677,tapiramuta,28.5,altı
+3678,tapiratiba,11.090909090909092,iki
+3679,tapurah,18.0,beş
+3680,taquara,13.0,üç
+3681,taquaracu de minas,19.0,beş
+3682,taquarana,18.0,beş
+3683,taquari,11.777777777777779,iki
+3684,taquaritinga,10.838709677419354,iki
+3685,taquaritinga do norte,21.2,altı
+3686,taquarituba,10.357142857142858,iki
+3687,taquarivai,10.0,bir
+3688,taquarucu do sul,8.0,bir
+3689,tarabai,13.0,üç
+3690,taruma,10.25,iki
+3691,tarumirim,9.75,bir
+3692,tatui,10.075757575757576,iki
+3693,taua,17.3,beş
+3694,taubate,10.12809917355372,iki
+3695,tavares,17.0,dört
+3696,tecainda,14.0,üç
+3697,teixeira,16.0,dört
+3698,teixeira de freitas,16.88888888888889,dört
+3699,teixeiras,16.2,dört
+3700,tejupa,11.0,iki
+3701,telemaco borba,11.483870967741936,iki
+3702,telha,15.0,dört
+3703,tenente ananias,21.0,beş
+3704,tenente portela,20.666666666666668,beş
+3705,teodoro sampaio,10.923076923076923,iki
+3706,teofilandia,23.333333333333332,altı
+3707,teofilo otoni,12.388059701492537,üç
+3708,teolandia,13.75,üç
+3709,teotonio vilela,27.833333333333332,altı
+3710,terenos,18.0,beş
+3711,teresina,21.046332046332047,altı
+3712,teresina de goias,15.0,dört
+3713,teresopolis,15.6,dört
+3714,terezinha,36.0,altı
+3715,termas de ibira,15.0,dört
+3716,terra boa,15.75,dört
+3717,terra de areia,11.8,iki
+3718,terra nova,14.0,üç
+3719,terra nova do norte,14.333333333333334,üç
+3720,terra rica,12.714285714285714,üç
+3721,terra roxa,16.4,dört
+3722,teutonia,27.923076923076923,altı
+3723,tiangua,40.888888888888886,altı
+3724,tibagi,12.5,üç
+3725,tibau do sul,19.0,beş
+3726,tiete,9.35483870967742,bir
+3727,tijucas,16.5,dört
+3728,timbauba,21.714285714285715,altı
+3729,timbe do sul,12.333333333333334,üç
+3730,timbo,17.31578947368421,beş
+3731,timburi,6.666666666666667,bir
+3732,timon,22.7,altı
+3733,timoteo,11.549019607843137,iki
+3734,tiradentes,14.25,üç
+3735,tiradentes do sul,17.0,dört
+3736,tiros,12.0,iki
+3737,tobias barreto,17.0,dört
+3738,tocantinopolis,19.428571428571427,beş
+3739,tocantins,9.666666666666666,bir
+3740,tocos,8.5,bir
+3741,tocos do moji,15.0,dört
+3742,toledo,13.430769230769231,üç
+3743,tomar do geru,13.0,üç
+3744,tomazina,11.666666666666666,iki
+3745,tombos,18.25,beş
+3746,tome-acu,27.0,altı
+3747,toritama,18.0,beş
+3748,toropi,12.333333333333334,üç
+3749,torres,14.25,üç
+3750,torrinha,15.0,dört
+3751,trabiju,7.0,bir
+3752,tracuateua,27.0,altı
+3753,tracunhaem,18.0,beş
+3754,traipu,24.0,altı
+3755,trairi,22.5,altı
+3756,trajano de moraes,28.875,altı
+3757,tramandai,16.565217391304348,dört
+3758,trancoso,31.0,altı
+3759,travessao,14.666666666666666,dört
+3760,travesseiro,13.0,üç
+3761,tremembe,11.08108108108108,iki
+3762,tres arroios,15.333333333333334,dört
+3763,tres barras,10.2,iki
+3764,tres cachoeiras,13.857142857142858,üç
+3765,tres coracoes,14.91891891891892,dört
+3766,tres coroas,15.0,dört
+3767,tres de maio,10.090909090909092,iki
+3768,tres forquilhas,20.0,beş
+3769,tres fronteiras,9.2,bir
+3770,tres irmaos,22.0,altı
+3771,tres lagoas,20.75,beş
+3772,tres marias,18.615384615384617,beş
+3773,tres passos,19.3,beş
+3774,tres pontas,10.5,iki
+3775,tres rios,13.368421052631579,üç
+3776,treviso,15.0,dört
+3777,treze tilias,17.11111111111111,beş
+3778,trindade,14.555555555555555,dört
+3779,trindade do sul,10.5,iki
+3780,triunfo,13.5,üç
+3781,trombas,15.0,dört
+3782,trombudo central,18.25,beş
+3783,tubarao,14.464285714285714,dört
+3784,tucano,17.875,beş
+3785,tucuma,35.666666666666664,altı
+3786,tucunduva,9.333333333333334,bir
+3787,tucurui,17.666666666666668,beş
+3788,tuiuti,11.0,iki
+3789,tumiritinga,6.0,bir
+3790,tunapolis,12.0,iki
+3791,tunas do parana,13.0,üç
+3792,tupa,10.38,iki
+3793,tupaciguara,10.166666666666666,iki
+3794,tupancireta,19.25,beş
+3795,tupandi,16.0,dört
+3796,tuparece,13.0,üç
+3797,tuparendi,10.5,iki
+3798,tuparetama,9.666666666666666,bir
+3799,tupassi,13.0,üç
+3800,tupi paulista,9.6,bir
+3801,turmalina,11.375,iki
+3802,tururu,40.0,altı
+3803,turvania,22.5,altı
+3804,turvelandia,21.0,beş
+3805,turvo,17.5,beş
+3806,turvolandia,15.5,dört
+3807,tutoia,15.0,dört
+3808,uaua,22.666666666666668,altı
+3809,uba,13.89795918367347,üç
+3810,ubai,12.0,iki
+3811,ubaira,17.833333333333332,beş
+3812,ubaitaba,19.75,beş
+3813,ubajara,30.5,altı
+3814,ubaporanga,12.666666666666666,üç
+3815,ubata,17.0,dört
+3816,ubatuba,13.136363636363637,üç
+3817,uberaba,11.04,iki
+3818,uberlandia,11.617391304347827,iki
+3819,ubirajara,8.0,bir
+3820,ubirata,13.714285714285714,üç
+3821,uchoa,8.0,bir
+3822,uibai,13.25,üç
+3823,ulianopolis,32.0,altı
+3824,umbauba,25.666666666666668,altı
+3825,umburanas,15.0,dört
+3826,umburatiba,6.0,bir
+3827,umuarama,14.102564102564102,üç
+3828,una,23.75,altı
+3829,unai,12.924528301886792,üç
+3830,uniao,16.0,dört
+3831,uniao da serra,16.0,dört
+3832,uniao da vitoria,12.74074074074074,üç
+3833,uniao de minas,13.333333333333334,üç
+3834,uniao do oeste,19.0,beş
+3835,uniao do sul,17.0,dört
+3836,uniao dos palmares,27.0,altı
+3837,unistalda,16.0,dört
+3838,upanema,17.5,beş
+3839,urai,12.333333333333334,üç
+3840,urandi,13.0,üç
+3841,urania,7.0,bir
+3842,urbano santos,23.8,altı
+3843,uruacu,12.882352941176471,üç
+3844,uruana,12.0,iki
+3845,uruana de minas,21.0,beş
+3846,uruara,23.0,altı
+3847,urubici,13.333333333333334,üç
+3848,uruburetama,12.0,iki
+3849,urucania,9.0,bir
+3850,urucuca,27.0,altı
+3851,urucui,10.333333333333334,iki
+3852,urucuia,17.0,dört
+3853,urucurituba,32.5,altı
+3854,uruguaiana,12.325581395348838,üç
+3855,uruoca,16.0,dört
+3856,urupa,26.0,altı
+3857,urupes,8.222222222222221,bir
+3858,urussanga,16.22222222222222,dört
+3859,urutai,17.0,dört
+3860,utinga,15.333333333333334,dört
+3861,vacaria,12.65,üç
+3862,valao do barro,33.0,altı
+3863,vale do sol,16.0,dört
+3864,vale real,15.666666666666666,dört
+3865,valenca,19.087719298245613,beş
+3866,valenca do piaui,13.75,üç
+3867,valente,19.125,beş
+3868,valentim gentil,7.666666666666667,bir
+3869,valinhos,8.23391812865497,bir
+3870,valparaiso,8.428571428571429,bir
+3871,valparaiso de goias,14.764705882352942,dört
+3872,vanini,31.0,altı
+3873,vargeao,10.0,bir
+3874,vargem,7.5,bir
+3875,vargem alegre,6.0,bir
+3876,vargem alta,28.4,altı
+3877,vargem bonita,14.75,dört
+3878,vargem grande,18.0,beş
+3879,vargem grande do soturno,28.0,altı
+3880,vargem grande do sul,9.333333333333334,bir
+3881,vargem grande paulista,6.666666666666667,bir
+3882,varginha,11.564705882352941,iki
+3883,varjao de minas,10.5,iki
+3884,varjota,21.0,beş
+3885,varre-sai,22.75,altı
+3886,varzea,27.0,altı
+3887,varzea alegre,26.5,altı
+3888,varzea da palma,12.454545454545455,üç
+3889,varzea do poco,19.0,beş
+3890,varzea grande,20.63888888888889,beş
+3891,varzea nova,13.0,üç
+3892,varzea paulista,11.614285714285714,iki
+3893,varzedo,12.0,iki
+3894,varzelandia,13.0,üç
+3895,vassouras,12.709677419354838,üç
+3896,vazante,12.6,üç
+3897,venancio aires,15.88,dört
+3898,venda branca,10.0,bir
+3899,venda nova do imigrante,15.0,dört
+3900,ventania,7.333333333333333,bir
+3901,venturosa,29.5,altı
+3902,vera,16.5,dört
+3903,vera cruz,23.238095238095237,altı
+3904,vera cruz do oeste,15.0,dört
+3905,veranopolis,12.857142857142858,üç
+3906,vere,27.333333333333332,altı
+3907,vereda,18.0,beş
+3908,verissimo,12.333333333333334,üç
+3909,vermelho,11.0,iki
+3910,vermelho novo,30.0,altı
+3911,vertentes,14.0,üç
+3912,vespasiano,11.473684210526315,iki
+3913,vespasiano correa,15.0,dört
+3914,viamao,19.41176470588235,beş
+3915,viana,17.458333333333332,beş
+3916,vianopolis,10.5,iki
+3917,vicencia,15.0,dört
+3918,vicente dutra,15.0,dört
+3919,vicentina,18.0,beş
+3920,vicentinopolis,17.5,beş
+3921,vicosa,11.380952380952381,iki
+3922,vicosa do ceara,41.0,altı
+3923,victor graeff,27.5,altı
+3924,videira,17.975609756097562,beş
+3925,vieiras,10.0,bir
+3926,vigia,20.5,beş
+3927,vila bela da santissima trindade,16.0,dört
+3928,vila dos cabanos,27.25,altı
+3929,vila flor,17.0,dört
+3930,vila flores,11.333333333333334,iki
+3931,vila langaro,18.0,beş
+3932,vila muriqui,8.857142857142858,bir
+3933,vila nelita,33.5,altı
+3934,vila nova,24.0,altı
+3935,vila nova do sul,29.0,altı
+3936,vila pereira,32.0,altı
+3937,vila reis,21.0,beş
+3938,vila rica,21.0,beş
+3939,vila valerio,22.833333333333332,altı
+3940,vila velha,17.207667731629392,beş
+3941,vilhena,18.857142857142858,beş
+3942,vinhedo,8.4375,bir
+3943,viradouro,6.9375,bir
+3944,virgem da lapa,18.0,beş
+3945,virginia,10.0,bir
+3946,virginopolis,12.428571428571429,üç
+3947,virgolandia,7.5,bir
+3948,visconde de maua,25.333333333333332,altı
+3949,visconde do rio branco,11.933333333333334,iki
+3950,viseu,19.0,beş
+3951,vista alegre,15.0,dört
+3952,vista alegre do alto,17.333333333333332,beş
+3953,vitoria,14.138728323699421,üç
+3954,vitoria da conquista,16.691358024691358,dört
+3955,vitoria das missoes,13.0,üç
+3956,vitoria de santo antao,20.066666666666666,beş
+3957,vitoria do jari,39.0,altı
+3958,vitoria do mearim,26.0,altı
+3959,vitorino,10.0,bir
+3960,vitorino freire,13.333333333333334,üç
+3961,vitorinos,19.0,beş
+3962,volta grande,18.25,beş
+3963,volta redonda,16.49771689497717,dört
+3964,votorantim,8.049382716049383,bir
+3965,votuporanga,9.508771929824562,bir
+3966,wagner,14.0,üç
+3967,wanderley,26.0,altı
+3968,wenceslau braz,8.5,bir
+3969,wenceslau guimaraes,23.0,altı
+3970,werneck,23.0,altı
+3971,witmarsum,13.0,üç
+3972,xambioa,13.0,üç
+3973,xambre,11.0,iki
+3974,xangri-la,19.285714285714285,beş
+3975,xanxere,14.037037037037036,üç
+3976,xapuri,18.0,beş
+3977,xavantina,16.0,dört
+3978,xaxim,17.1,beş
+3979,xexeu,9.0,bir
+3980,xinguara,32.77777777777778,altı
+3981,xique-xique,16.333333333333332,dört
+3982,zacarias,15.0,dört
+3983,ze doca,29.2,altı
+3984,zortea,20.5,beş

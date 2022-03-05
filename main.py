@@ -7,16 +7,15 @@ import streamlit as st
 
 # DOCS : https://docs.streamlit.io/library/api-reference/charts
 
-PAGES = {
-    "Olist Model": page_olist,
-    "Çalışma": page2,
-    "BMI Calculator": page1,
-}
-st.sidebar.title('Menu')
+# PAGES = {
+#     "Olist Model": page_olist,
+#     "EDA": page2,
+#     "BMI Calculator": page1,
+# }
+# st.sidebar.title('Menu')
+#
+# selection = st.sidebar.radio("Go to", list(PAGES.keys()))
+# page = PAGES[selection]
+# page.app()
 
-selection = st.sidebar.radio("Go to", list(PAGES.keys()))
-page = PAGES[selection]
-page.app()
-
-
-# TODO Free Host-Domain ayarla
+page_olist.app()
