@@ -12,8 +12,9 @@ import streamlit as st
 #     "EDA": page2,
 #     "BMI Calculator": page1,
 # }
-# st.sidebar.title('Menu')
-#
+# st.sidebar.title('ERİŞMEK İÇİN QR KODUNU OKUTABİLİRSİNİZ...')
+# st.sidebar.image("olist_qr_code.png")
+
 # selection = st.sidebar.radio("Go to", list(PAGES.keys()))
 # page = PAGES[selection]
 # page.app()

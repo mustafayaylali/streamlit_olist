@@ -14,7 +14,7 @@ import Scripts.ml_pipeline as ml
 st.set_page_config(page_title="OLIST", page_icon=":truck:", layout="wide")
 def app():
 
-    #st.audio("mvk.mp3")
+    st.audio("mvk.mp3")
 
     image = Image.open('img.png')
     st.image(image, caption='Brazillian E-Commerce Olist')
@@ -113,12 +113,12 @@ def app():
             st.success(f"🇬🇧 Estimated product delivery time  :  {result} Days")
             st.success(f"🇧🇷 Tempo estimado de entrega do produto  :  {result} Dias")
 
-            # st.balloons()
+            st.balloons()
             # st.snow()
 
 
     else:
-        st.write('No Data')
+        st.warning('No Data')
 
 
 # TODO  EDA kısmını STREAMLITe EKLE
