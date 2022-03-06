@@ -14,7 +14,7 @@ import Scripts.ml_pipeline as ml
 st.set_page_config(page_title="OLIST", page_icon=":truck:", layout="wide")
 def app():
 
-    st.audio("mvk.mp3")
+    #st.audio("mvk.mp3")
 
     image = Image.open('img.png')
     st.image(image, caption='Brazillian E-Commerce Olist')
